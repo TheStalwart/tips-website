@@ -6,6 +6,10 @@ export default defineConfig({
   description: "Useful information for building and maintaining retro PC gaming setups",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    search: {
+      provider: 'local'
+    },
+
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
