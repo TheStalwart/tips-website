@@ -8,7 +8,7 @@ For Windows 11 23H2 to run well and be usable for modern web apps and low spec g
 
 I run Windows 11 on CPUs as old as Core 2 Quad, as long as it's installed on SSD and has enough RAM - the PC is usable for YouTube and osu! (not at the same time though).
 
-[Vanilla Windows 11 ISO from microsoft.com](https://www.microsoft.com/en-us/software-download/windows11/) will bitch about not having TPM and what not, but when creating install media using [Rufus](https://rufus.ie/en/) these checks can be bypassed.
+[Vanilla Windows 11 ISO from microsoft.com](https://www.microsoft.com/en-us/software-download/windows11/) will bitch about not having TPM 2.0 and Secure Boot, but when creating install media using [Rufus](https://rufus.ie/en/) these checks can be disabled.
 
 ## Install without Microsoft account
 You'll need to install from media patched by [Rufus](https://rufus.ie/en/) (see previous section). Then just unplug ethernet cable before installing, and do not connect to Wi-Fi until you see a desktop and a start menu.
