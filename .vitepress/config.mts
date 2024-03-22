@@ -44,7 +44,7 @@ export default defineConfig({
       // manualSortFileNameByPriority: ['first.md', 'second', 'third.md'],
       // removePrefixAfterOrdering: false,
       // prefixSeparator: '.',
-      // excludeFiles: ['first.md', 'secret.md'],
+      excludeFiles: ['README.md'],
       // excludeFilesByFrontmatter: false,
       // excludeFolders: ['secret-folder'],
       // includeDotFiles: false,
