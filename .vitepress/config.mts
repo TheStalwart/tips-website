@@ -61,7 +61,11 @@ export default defineConfig({
     }),
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/TheStalwart/tips-website' }
+      { icon: 'github', link: 'https://github.com/TheStalwart/tips-website' },
+      { icon: 'discord', link: 'https://discord.gg/wuvKNmurPR' },
+      { icon: 'facebook', link: 'https://www.facebook.com/RetroMultiplayer' },
+      { icon: 'instagram', link: 'https://www.instagram.com/retromultiplayer/' },
+      { icon: 'youtube', link: 'https://www.youtube.com/@retromultiplayer4666' },
     ]
   }
 })
