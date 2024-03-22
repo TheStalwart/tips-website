@@ -26,7 +26,7 @@ export default defineConfig({
       // resolvePath: null,
       useTitleFromFileHeading: true,
       // useTitleFromFrontmatter: true,
-      // useFolderTitleFromIndexFile: false,
+      useFolderTitleFromIndexFile: true,
       // useFolderLinkFromIndexFile: false,
       // hyphenToSpace: true,
       // underscoreToSpace: true,
