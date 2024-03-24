@@ -7,9 +7,6 @@ The website is set up for backwards compatibility with Internet Explorer 6, so j
 
 To retrigger Windows Update Agent: `wuauclt /detectnow`
 
-## Force high refresh rate in games
-Use [RefreshLock](https://www.softpedia.com/get/Tweak/Video-Tweak/RefreshLock.shtml) app.
-
 ## Web browsers
 Internet Explorer 6 and 8 do not support modern HTTPS, and modern web avoids unencrypted protocols as much as possible, but there are still WinXP-compatible browsers capable of accessing modern web.
 - [Supermium](https://github.com/win32ss/supermium)
@@ -24,3 +21,6 @@ Internet Explorer 6 and 8 do not support modern HTTPS, and modern web avoids une
 
 ## Text editors
 Last supported version of Notepad++ is [7.9.2](https://notepad-plus-plus.org/downloads/v7.9.2/)
+
+## Force high refresh rate in games
+Use [RefreshLock](https://www.softpedia.com/get/Tweak/Video-Tweak/RefreshLock.shtml) app.
