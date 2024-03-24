@@ -1,7 +1,9 @@
 # Windows XP
 
-## Restore Windows Update
+## Windows Update
 Microsoft does not serve updates for Windows XP anymore, use [Legacy Update](https://legacyupdate.net/) to restore Windows Update functionality.
+
+The website is set up for backwards compatibility with Internet Explorer 6, so just open `http://legacyupdate.net` and go from there.
 
 To retrigger Windows Update Agent: `wuauclt /detectnow`
 
