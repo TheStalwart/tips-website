@@ -12,8 +12,8 @@ export default defineConfig({
     },
 
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Games', link: '/games/Quake3.html' },
+      { text: 'Operating Systems', link: '/os/WindowsXP.html' }
     ],
 
     sidebar:  generateSidebar({
