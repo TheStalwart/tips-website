@@ -5,6 +5,7 @@ import { generateSidebar } from 'vitepress-sidebar'
 export default defineConfig({
   title: "RetroMultiplayer Tech Tips",
   description: "Useful information for building and maintaining retro PC gaming setups",
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
