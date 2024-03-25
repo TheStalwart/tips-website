@@ -5,7 +5,21 @@
 - Boot device select: `F7` / `Fn+7`
 
 ## Driver installation procedure
-https://www.dlford.io/gpd-pocket-drivers/
+I [installed Windows 23H2 using Rufus](/os/Windows11#install-on-unsupported-hardware) on my GPD Pocket, and out of box not even battery indicator works. Make sure to either have Wi-Fi or Ethernet dongle that doesn't need extra drivers, or have a copy of [latest driver package](https://mega.nz/#!ut9XHYjD!gl6NIFLjLFZqwiTrGoHUz72QHV5IOwkmwea-E_xupqE) and [7-zip](https://www.7-zip.org/download.html) on a USB drive.
+
+::: warning
+Use 7-zip for extracting archives provided by GPD. Built-in Windows unarchiving tool fails with cryptic errors.
+:::
+
+- Enter `inf` folder, right click on `Install-drivers.bat`, run as administrator.
+- Enter `exe` folder, right click on `Install-drivers.bat`, run as administrator.
+- Restart, let Windows Update install extra drivers and software, e.g. Intel HD Graphics Control Panel
+
+That's it. No unknown devices, everything seems to work. YMMV, but i assume older articles i find about driver installation on GPD Pocket are so long and complicated because they were based on Windows 10 experience.
+
+More info:
+- [Driver and BIOS archives on GPD website](https://www.gpd.hk/gpdpocketfirmware)
+- [GPD Pocket: How to Re-install all Drivers -- Written By: Dan Ford](https://www.dlford.io/gpd-pocket-drivers/)
 
 ## Charger compatibility
 GPD Pocket requires 9V USB-PD mode for charging, and therefore is incompatible with Nintendo Switch charger HAC-002 that can only do 5V and 15V. 
