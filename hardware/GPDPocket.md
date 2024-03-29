@@ -1,5 +1,8 @@
 # GPD Pocket
 
+## Specs
+- [Official website](https://gpd.hk/gpdpocket)
+
 ## BIOS hotkeys
 - BIOS Setup: `Del`
 - Boot device select: `F7` / `Fn+7`
