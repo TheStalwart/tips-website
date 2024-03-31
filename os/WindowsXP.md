@@ -23,5 +23,8 @@ Internet Explorer 6 and 8 do not support modern HTTPS, and modern web avoids une
 ## Text editors
 Last supported version of Notepad++ is [7.9.2](https://notepad-plus-plus.org/downloads/v7.9.2/) (Jan 1, 2021)
 
+## Messengers
+[Discord web version](https://discord.com/channels/@me) works in [Supermium](https://github.com/win32ss/supermium).
+
 ## Force high refresh rate in games
 Use [RefreshLock](https://www.softpedia.com/get/Tweak/Video-Tweak/RefreshLock.shtml) app.
