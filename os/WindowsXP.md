@@ -27,8 +27,13 @@ Last supported version of Notepad++ is [7.9.2](https://notepad-plus-plus.org/dow
 [Discord web version](https://discord.com/channels/@me) works in [Supermium](https://github.com/win32ss/supermium).
 
 ## FTP/SFTP clients
-Last supported version of FileZilla is [3.8.0](https://download.filezilla-project.org/client/FileZilla_3.8.0_win32-setup.exe) (2014-03-28)
-- Does not support modern SFTP encryption protocols
+- [Bitvise SSH Client](https://www.bitvise.com/ssh-client-download)
+    - Still actively maintained
+    - Version 9.33 (20 December 2023) tested to support Windows XP SP3
+    - Supports modern encryption protocols
+    - Features SSH Terminal and SFTP file transfer
+- FileZilla [3.8.0](https://download.filezilla-project.org/client/FileZilla_3.8.0_win32-setup.exe) (2014-03-28)
+    - Does not support modern SFTP encryption protocols
 
 ## Force high refresh rate in games
 Use [RefreshLock](https://www.softpedia.com/get/Tweak/Video-Tweak/RefreshLock.shtml) app.
