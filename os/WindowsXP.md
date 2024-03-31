@@ -26,5 +26,9 @@ Last supported version of Notepad++ is [7.9.2](https://notepad-plus-plus.org/dow
 ## Messengers
 [Discord web version](https://discord.com/channels/@me) works in [Supermium](https://github.com/win32ss/supermium).
 
+## FTP/SFTP clients
+Last supported version of FileZilla is [3.8.0](https://download.filezilla-project.org/client/FileZilla_3.8.0_win32-setup.exe) (2014-03-28)
+- Does not support modern SFTP encryption protocols
+
 ## Force high refresh rate in games
 Use [RefreshLock](https://www.softpedia.com/get/Tweak/Video-Tweak/RefreshLock.shtml) app.
