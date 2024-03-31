@@ -25,6 +25,11 @@ Internet Explorer 6 and 8 do not support modern HTTPS, and modern web avoids une
     - A way to run latest versions of VSCode, extensions and toolchains on Windows XP
 - Notepad++ [7.9.2](https://notepad-plus-plus.org/downloads/v7.9.2/) (Jan 1, 2021)
 
+## Development tools
+- Git for Windows [2.10.0](https://github.com/git-for-windows/git/releases/tag/v2.10.0.windows.1) (August 25th 2016)
+    - According to [this answer on StackExchange](https://superuser.com/a/1195244), this is the last version that is fully compatible with Windows XP
+    - Is compatible with GitHub
+
 ## Messengers
 [Discord web version](https://discord.com/channels/@me) works in [Supermium](https://github.com/win32ss/supermium).
 
