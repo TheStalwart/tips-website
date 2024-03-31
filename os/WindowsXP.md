@@ -21,7 +21,9 @@ Internet Explorer 6 and 8 do not support modern HTTPS, and modern web avoids une
     - To download using Internet Explorer, access the "FTP" server using HTTP protocol: `http://ftp.mozilla.org/pub/firefox/releases/52.9.0esr/win32/en-US/`
 
 ## Text editors
-Last supported version of Notepad++ is [7.9.2](https://notepad-plus-plus.org/downloads/v7.9.2/) (Jan 1, 2021)
+- [GitHub Codespaces](https://github.com/features/codespaces) works in [Supermium](https://github.com/win32ss/supermium)
+    - A way to run latest versions of VSCode, extensions and toolchains on Windows XP
+- Notepad++ [7.9.2](https://notepad-plus-plus.org/downloads/v7.9.2/) (Jan 1, 2021)
 
 ## Messengers
 [Discord web version](https://discord.com/channels/@me) works in [Supermium](https://github.com/win32ss/supermium).
