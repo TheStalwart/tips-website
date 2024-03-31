@@ -20,7 +20,7 @@ Internet Explorer 6 and 8 do not support modern HTTPS, and modern web avoids une
     - To download using Internet Explorer, access the "FTP" server using HTTP protocol: `http://ftp.mozilla.org/pub/firefox/releases/52.9.0esr/win32/en-US/`
 
 ## Text editors
-Last supported version of Notepad++ is [7.9.2](https://notepad-plus-plus.org/downloads/v7.9.2/)
+Last supported version of Notepad++ is [7.9.2](https://notepad-plus-plus.org/downloads/v7.9.2/) (Jan 1, 2021)
 
 ## Force high refresh rate in games
 Use [RefreshLock](https://www.softpedia.com/get/Tweak/Video-Tweak/RefreshLock.shtml) app.
