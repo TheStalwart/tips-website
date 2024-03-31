@@ -13,6 +13,7 @@ Internet Explorer 6 and 8 do not support modern HTTPS, and modern web avoids une
     - Chrome fork patched to work on Windows XP
     - Still actively maintained
     - Requires [SSE2](https://en.wikipedia.org/wiki/SSE2#CPU_support) CPU instruction set
+    - Crashes on some websites, i suggest having Firefox installed as a backup
     - To download using Internet Explorer: `http://win32subsystem.live/supermium/legacy/`
 - [Firefox 52.9.0](https://ftp.mozilla.org/pub/firefox/releases/52.9.0esr/win32/en-US/Firefox%20Setup%2052.9.0esr.exe) (June 26, 2018)
     - Increasingly degraded support for modern web features
