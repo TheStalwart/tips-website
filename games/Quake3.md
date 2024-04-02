@@ -26,3 +26,11 @@ Modern vkQuake3/quake3e builds add a mode to set engine resolution to Windows de
 ## Field of view adjustment
 - Default is 90: `\cg_fov 90` 
 - For widescreen displays, try higher values: `\cg_fov 120`
+
+## FPS counter
+```
+\cg_drawFPS 1
+```
+
+## More information
+[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Quake_III_Arena)
