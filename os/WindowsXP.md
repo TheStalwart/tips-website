@@ -42,5 +42,8 @@ Internet Explorer 6 and 8 do not support modern HTTPS, and modern web avoids une
 - FileZilla [3.8.0](https://download.filezilla-project.org/client/FileZilla_3.8.0_win32-setup.exe) (2014-03-28)
     - Does not support modern SFTP encryption protocols
 
+## Archiving
+[7-Zip](https://www.7-zip.org/) is still actively supported on Windows XP.
+
 ## Force high refresh rate in games
 Use [RefreshLock](https://www.softpedia.com/get/Tweak/Video-Tweak/RefreshLock.shtml) app.
