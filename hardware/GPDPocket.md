@@ -33,3 +33,7 @@ Make sure amber LED on power button is on when performing OS and BIOS updates.
 Quite a few reviews of this device mention issues with external display support through USB-C. These issues seem to be fixed now. 
 
 With Windows 11 23H2, BIOS and drivers updated, compatible dongle, and quality 9V USB-PD charger - i can use GPD Pocket with external 1080p display and battery level goes up even during high CPU utilization.
+
+## Frequently asked questions
+- Is keyboard comfortable?
+    - No.
