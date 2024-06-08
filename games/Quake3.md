@@ -32,5 +32,12 @@ Modern vkQuake3/quake3e builds add a mode to set engine resolution to Windows de
 \cg_drawFPS 1
 ```
 
+## Gamma workaround
+On some GPUs gamma adjustment has no effect unless a workaround is enabled:
+```
+\seta r_ignorehwgamma "1"
+\vid_restart
+```
+
 ## More information
 [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Quake_III_Arena)
