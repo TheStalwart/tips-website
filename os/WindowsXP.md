@@ -29,6 +29,9 @@ Internet Explorer 6 and 8 do not support modern HTTPS, and modern web avoids une
 - Git for Windows [2.10.0](https://github.com/git-for-windows/git/releases/tag/v2.10.0.windows.1) (August 25th 2016)
     - According to [this answer on StackExchange](https://superuser.com/a/1195244), this is the last version that is fully compatible with Windows XP
     - Is compatible with GitHub
+- TortoiseGit
+	- Developers claim the last version supporting Windows XP is [1.8.16.0](https://download.tortoisegit.org/tgit/1.8.16.0/) but it fails with Windows Installer error
+	- Version [1.7.15.0](https://download.tortoisegit.org/tgit/1.7.15.0/) works on vanilla Windows XP SP3
 
 ## Messengers
 [Discord web version](https://discord.com/channels/@me) works in [Supermium](https://github.com/win32ss/supermium).
