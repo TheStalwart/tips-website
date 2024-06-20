@@ -48,6 +48,7 @@ Internet Explorer 6 and 8 do not support modern HTTPS, and modern web avoids une
 ## Utilities
 - [7-Zip](https://www.7-zip.org/)
 - [HWiNFO](https://www.hwinfo.com/download/) (download "Portable" release, run HWiNFO32.exe)
+- [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) (throws an error on launch, but otherwise compatible)
 
 ## Force high refresh rate in games
 Use [RefreshLock](https://www.softpedia.com/get/Tweak/Video-Tweak/RefreshLock.shtml) app.
