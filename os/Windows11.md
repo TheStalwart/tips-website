@@ -17,3 +17,6 @@ You'll need to install from media patched by [Rufus](https://rufus.ie/en/) (see 
 When installed on "unsupported" hardware as described in previous sections, Windows Update _will not_ automatically update 22H2 to 23H2. This can be fixed by manually installing KB5027397 (The 23H2 enablement package).
 
 Microsoft doesn't offer a straightforward way to download the enablement package, so try [this link](https://www.xda-developers.com/windows-11-version-23h2-manual-install/) instead.
+
+## Useful utilities
+- [WinCaffeine](https://wincaffeine.jonaskohl.de/) - tray utility to prevent PC from sleeping
