@@ -1,4 +1,4 @@
-# Raspberry Pi 2B
+# Raspberry Pi 2 Model B
 
 ## Supported Raspbian releases
 - 11 Bullseye is the last 100% supported release
