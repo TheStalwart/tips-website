@@ -1,5 +1,16 @@
 # Raspberry Pi 2 Model B
 
+## Notable specs
+- ARMv7 32-bit architecture
+- 1GB RAM
+- 100mbps Ethernet
+- No Wi-Fi
+- No Bluetooth
+
+[Full specs](https://www.raspberrypi.com/products/raspberry-pi-2-model-b/) on manufacturer's website
+
+[Model comparison](https://en.wikipedia.org/wiki/Raspberry_Pi#Model_comparison) on Wikipedia
+
 ## Supported Raspbian releases
 - 11 Bullseye is the last 100% supported release
 - 12 Bookworm support is partial due to Wayland requiring Pi 3 or newer
