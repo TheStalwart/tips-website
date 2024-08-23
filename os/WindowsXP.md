@@ -5,6 +5,8 @@ Microsoft does not serve updates for Windows XP anymore, use [Legacy Update](htt
 
 The website is set up for backwards compatibility with Internet Explorer 6, so just open `http://legacyupdate.net` and go from there.
 
+If you opt-in for "Windows Embedded 2009 updates", be prepared for _obscene_ amounts of updates, and some of them force-restart Windows after installation. I'd argue you don't need them if you don't intend to go online (e.g. a retrogaming PC).
+
 To retrigger Windows Update Agent: `wuauclt /detectnow`
 
 ## Web browsers
