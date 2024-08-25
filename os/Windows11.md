@@ -18,5 +18,8 @@ When installed on "unsupported" hardware as described in previous sections, Wind
 
 Microsoft doesn't offer a straightforward way to download the enablement package, so try [this link](https://www.xda-developers.com/windows-11-version-23h2-manual-install/) instead.
 
+## Random freezes when using web browsers
+Use [MPO-GPU-FIX](https://github.com/RedDot-3ND7355/MPO-GPU-FIX) utility. From my personal experience, the patch needs to be reapplied after major OS updates.
+
 ## Useful utilities
 - [WinCaffeine](https://wincaffeine.jonaskohl.de/) - tray utility to prevent PC from sleeping
