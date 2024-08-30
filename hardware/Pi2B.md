@@ -7,9 +7,9 @@
 - No Wi-Fi
 - No Bluetooth
 
-[Full specs](https://www.raspberrypi.com/products/raspberry-pi-2-model-b/) on manufacturer's website
+[Full specs](https://www.raspberrypi.com/products/raspberry-pi-2-model-b/) on manufacturer's website.
 
-[Model comparison](https://en.wikipedia.org/wiki/Raspberry_Pi#Model_comparison) on Wikipedia
+[Model comparison](https://en.wikipedia.org/wiki/Raspberry_Pi#Model_comparison) on Wikipedia.
 
 ## Supported Raspbian releases
 - 11 Bullseye is the last 100% supported release
