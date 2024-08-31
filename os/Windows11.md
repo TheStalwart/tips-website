@@ -23,3 +23,4 @@ Use [MPO-GPU-FIX](https://github.com/RedDot-3ND7355/MPO-GPU-FIX) utility. From m
 
 ## Useful utilities
 - [WinCaffeine](https://wincaffeine.jonaskohl.de/) - tray utility to prevent PC from sleeping
+- [WinDirStat](https://windirstat.net/) - disk usage statistics viewer
