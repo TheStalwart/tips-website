@@ -21,10 +21,11 @@
 	"customizations": {
 		"vscode": {
             "extensions": [
-                "eamodio.gitlens",
-                "yzhang.markdown-all-in-one",
-                "antfu.vite"
-            ]
+				"eamodio.gitlens",
+				"yzhang.markdown-all-in-one",
+				"antfu.vite",
+				"johnpapa.vscode-peacock"
+			]
         }
 	},
 
