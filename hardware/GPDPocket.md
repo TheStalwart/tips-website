@@ -34,6 +34,10 @@ Quite a few reviews of this device mention issues with external display support 
 
 With Windows 11 23H2, BIOS and drivers updated, compatible dongle, and quality 9V USB-PD charger - i can use GPD Pocket with external 1080p display and battery level goes up even during high CPU utilization.
 
+::: warning
+Installing "optional driver updates" through Windows Update on Windows 11 23H2 breaks compatibility with every USB-C dongle i tested. At best, charging will work, and maybe USB-A port (but only if you disconnect charger).
+:::
+
 ## Frequently asked questions
 - Is keyboard comfortable?
     - No.
