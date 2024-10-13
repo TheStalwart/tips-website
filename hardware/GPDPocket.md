@@ -9,7 +9,7 @@
 - BIOS Setup: `Del`
 - Boot device select: `F7` / `Fn+7`
 
-## Driver installation procedure
+## Windows 23H2 experience
 
 I [installed Windows 23H2 using Rufus](/os/Windows11#install-on-unsupported-hardware) on my GPD Pocket, and out of box not even battery indicator works. Make sure to either have Wi-Fi or Ethernet dongle that doesn't need extra drivers, or have a copy of [latest driver package](https://mega.nz/#!ut9XHYjD!gl6NIFLjLFZqwiTrGoHUz72QHV5IOwkmwea-E_xupqE) and [7-zip](https://www.7-zip.org/download.html) on a USB drive.
 
@@ -27,6 +27,20 @@ More info:
 
 - [Driver and BIOS archives on GPD website](https://www.gpd.hk/gpdpocketfirmware)
 - [GPD Pocket: How to Re-install all Drivers -- Written By: Dan Ford](https://www.dlford.io/gpd-pocket-drivers/)
+
+## Windows 24H2 LTSC experience
+
+LTSC seems to be a great choice for GPD, but my setup got corrupted shortly after installing drivers the same way i did on 23H2. I wonder if it's one specific driver being incompatible with 24H2, next time i attempt a reinstall i will install drivers one-by-one and take notes. To be continued...
+
+## Linux experience
+
+In 2024 i tested a couple Linux distros on GPD Pocket and out of box experience with most of them ranged from unusable to productive but randomly unstable.
+
+Features like touchscreen, screen brightness hotkeys and sleep seem to work best on bleeding edge distros like Fedora, that also insist on using Wayland by default. Due to intel GPU being no bueno even on release date, and also a couple bugs in linux driver, i would suggest using X11 to have better input response.
+
+In the end, Fedora setup i was using survived for about of month of almost daily use as a secondary machine, then got corrupted after another random crash.
+
+I would only retry Linux on GPD if i had time to spend on a distro like Arch, Gentoo or NixOS. This machine is too weird and buggy to ever be fully supported by a mainstream "easy" distro.
 
 ## Charger compatibility
 
