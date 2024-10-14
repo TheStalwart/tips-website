@@ -31,6 +31,10 @@ Use [MPO-GPU-FIX](https://github.com/RedDot-3ND7355/MPO-GPU-FIX) utility. From m
 - [VLC media player](https://www.videolan.org/vlc/) - plays _most_ video files
 - [WinCaffeine](https://wincaffeine.jonaskohl.de/) - tray utility to prevent PC from sleeping
 - [WinDirStat](https://windirstat.net/) - disk usage statistics viewer
+
+## File transfer
+
+- [qBittorrent](https://www.qbittorrent.org/) - open source BitTorrent client with dark mode support
 - [WinSCP](https://winscp.net/eng/index.php) - SFTP/WebDAV client with dark mode support (unlike [FileZilla](https://filezilla-project.org/))
 
 ## Development tools
