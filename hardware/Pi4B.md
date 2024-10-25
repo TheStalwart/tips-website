@@ -13,3 +13,7 @@
 [Full specs](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) on manufacturer's website.
 
 [Model comparison](https://en.wikipedia.org/wiki/Raspberry_Pi#Model_comparison) on Wikipedia.
+
+## Use as a desktop in 2024
+
+[4k60](https://www.makeuseof.com/run-your-raspberry-pi-at-4k-60hz/) and [1080p120](https://www.jeffgeerling.com/blog/2022/gaming-1080p-and-120-hz-on-raspberry-pi-4) HDMI modes can be enabled by adjusting `/boot/firmware/*` files.
