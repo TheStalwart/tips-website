@@ -6,6 +6,8 @@ Production instance: <https://tips.retromultiplayer.com>
 
 ## Development environment
 
+Install [NodeJS + NPM](https://nodejs.org/), then:
+
 ```bash
 npm install
 npx vitepress dev --host
