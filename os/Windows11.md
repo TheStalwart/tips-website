@@ -40,6 +40,16 @@ Use [Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft
 
 Use [MPO-GPU-FIX](https://github.com/RedDot-3ND7355/MPO-GPU-FIX) utility. From my personal experience, the patch needs to be reapplied after major OS updates.
 
+## Share files with Windows XP over SMB
+
+File sharing is usually only enabled in "Private Networks", so either make your current network "Private" or enable file sharing on "Public Networks".
+
+Open "Turn Windows features on or off" and make sure "SMB 1.0" is enabled.
+
+Open "Computer Management", go to System Tools -> Local Users and Groups -> Users -> Guest, and uncheck "Account is disabled" to enable Guest account.
+
+Open Local Group Policy Editor (gpedit.msc), go to Computer Configuration -> Windows Settings -> Security Settings -> Local Policies -> User Rights Assignment -> Deny access to this computer from the network. Delete "Guest" from the list.
+
 ## Useful utilities
 
 - [VLC media player](https://www.videolan.org/vlc/) - plays _most_ video files
