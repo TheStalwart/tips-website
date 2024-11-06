@@ -30,6 +30,8 @@ Download [24H2 ISO](https://www.microsoft.com/en-us/software-download/windows11)
 
 Mount it, and execute `setup.exe /product server`. Make sure to “Change how setup downloads updates” and select "Not right now". If you can select "Keep files, settings and apps" - proceed with that.
 
+On some older machines setup can spend up to 30 minutes displaying blank screen. That is "normal", let it do the thing.
+
 ## Activation
 
 Use [Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts).
