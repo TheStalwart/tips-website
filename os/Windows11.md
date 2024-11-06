@@ -2,9 +2,9 @@
 
 ## Install on unsupported hardware
 
-For Windows 11 23H2 to run well and be usable for modern web apps and low spec games the system requirements are the following:
+For Windows 11 24H2 to run well and be usable for modern web apps and low spec games the system requirements are the following:
 
-- 64bit CPU
+- 64bit CPU with SSE4.2
 - 8GB RAM
 - SSD
 
@@ -21,6 +21,14 @@ You'll need to install from media patched by [Rufus](https://rufus.ie/en/) (see 
 When installed on "unsupported" hardware as described in previous sections, Windows Update _will not_ automatically update 22H2 to 23H2. This can be fixed by manually installing KB5027397 (The 23H2 enablement package).
 
 Microsoft doesn't offer a straightforward way to download the enablement package, so try [this link](https://www.xda-developers.com/windows-11-version-23h2-manual-install/) instead.
+
+## Update 23H2 to 24H2 on unsupported hardware
+
+Make sure the CPU implements SSE4.2, e.g. using [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) utility, as 24H2 requires POPCNT instruction.
+
+Download [24H2 ISO](https://www.microsoft.com/en-us/software-download/windows11), preferably using Media Creation Tool, because [you need ISO that matches the region of your install](https://www.winhelponline.com/blog/keep-personal-files-and-apps-grayed-out-setup/).
+
+Mount it, and execute `setup.exe /product server`. Make sure to “Change how setup downloads updates” and select "Not right now". If you can select "Keep files, settings and apps" - proceed with that.
 
 ## Activation
 
