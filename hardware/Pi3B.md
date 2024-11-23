@@ -4,6 +4,7 @@
 
 - ARM64 64-bit architecture
 - 1GB RAM
+- USB 2.0
 - 100mbps Ethernet
 - Wi-Fi
 - Bluetooth

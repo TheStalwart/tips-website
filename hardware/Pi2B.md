@@ -4,6 +4,7 @@
 
 - ARMv7 32-bit architecture
 - 1GB RAM
+- USB 2.0
 - 100mbps Ethernet
 - No Wi-Fi
 - No Bluetooth

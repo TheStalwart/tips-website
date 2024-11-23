@@ -4,6 +4,7 @@
 
 - ARM64 64-bit architecture
 - 1GB, 2GB, 4GB or 8GB LPDDR4-3200 SDRAM (depending on model)
+- USB 3.0 + USB 2.0
 - Gigabit Ethernet
 - Wi-Fi 802.11ac
 - Bluetooth 5.0
