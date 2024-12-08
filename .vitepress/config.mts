@@ -15,7 +15,8 @@ export default defineConfig({
     nav: [
       { text: 'Games', link: '/games/Quake3.html' },
       { text: 'Hardware', link: '/hardware/ThinkPadT420s.html' },
-      { text: 'Operating Systems', link: '/os/WindowsXP.html' }
+      { text: 'Operating Systems', link: '/os/WindowsXP.html' },
+      { text: 'Tutorials', link: '/tutorials/sshd_2fa.html' }
     ],
 
     sidebar:  generateSidebar({
