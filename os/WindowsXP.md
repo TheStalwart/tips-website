@@ -58,6 +58,7 @@ Internet Explorer 6 and 8 do not support modern HTTPS, and modern web avoids une
 
 - [7-Zip](https://www.7-zip.org/)
 - [HWiNFO](https://www.hwinfo.com/download/) (download "Portable" release, run HWiNFO32.exe)
+- [Keyboard Test Utility](https://www.filehorse.com/download-keyboard-test-utility/73400/)
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) (throws an error on launch, but otherwise compatible)
 
 ## Force high refresh rate in games
