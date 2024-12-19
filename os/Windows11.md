@@ -34,7 +34,7 @@ Make sure the CPU implements POPCNT instruction (SSE 4.2 or SSE 4a), e.g. using 
 
 Download [24H2 ISO](https://www.microsoft.com/en-us/software-download/windows11), preferably using Media Creation Tool, because [you need ISO that matches the region of your install](https://www.winhelponline.com/blog/keep-personal-files-and-apps-grayed-out-setup/).
 
-Mount it, and execute `setup.exe /product server`. Make sure to “Change how setup downloads updates” and select "Not right now". If you can select "Keep files, settings and apps" - proceed with that.
+Mount it, right click on mounted media and select "Open in Terminal", make sure you're running in classic Command Prompt environment by executing `cmd` command, then execute `setup /product server`. Make sure to “Change how setup downloads updates” and select "Not right now". If you can select "Keep files, settings and apps" - proceed with that.
 
 On some older machines setup can spend up to 30 minutes displaying blank screen. That is "normal", let it do the thing.
 
