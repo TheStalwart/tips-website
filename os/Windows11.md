@@ -21,6 +21,21 @@ On the "Let's connect you to a network" installation step, press "I don't have i
 1. Install from media patched by [Rufus](https://rufus.ie/en/) (see previous section).
 2. Press Shift+F10, enter `oobe\BypassNRO` command (case sensitive!).
 
+## Bootloader troubleshooting
+
+When installing 24H2 over Linux instance with GRUB, on some machines 24H2 installer will fail to correctly overwrite bootloader and will land into GRUB recovery console instead of Stage 2 of Windows Setup.
+
+To overwrite bootloader manually, restart installation media and select `Repair my PC -> Troubleshoot -> Command Prompt`, then enter the following commands:
+
+```ps
+bootsect /nt60 sys
+bootrec /fixmbr
+bootrec /fixboot
+bootrec /scanos
+bootrec /rebuildbcd
+```
+
+Restart the installation media and redo Stage 1 of Windows Setup.
 
 ## Update 22H2 to 23H2 on unsupported hardware
 
