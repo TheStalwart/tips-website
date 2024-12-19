@@ -4,7 +4,7 @@
 
 For Windows 11 24H2 to run well and be usable for modern web apps and low spec games the system requirements are the following:
 
-- 64bit CPU with SSE4.2
+- 64bit CPU with POPCNT instruction (SSE 4.2 or SSE 4a)
 - 8GB RAM
 - SSD
 
@@ -24,7 +24,7 @@ Microsoft doesn't offer a straightforward way to download the enablement package
 
 ## Update 23H2 to 24H2 on unsupported hardware
 
-Make sure the CPU implements SSE4.2, e.g. using [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) utility, as 24H2 requires POPCNT instruction.
+Make sure the CPU implements POPCNT instruction (SSE 4.2 or SSE 4a), e.g. using [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) utility, as 24H2 will crash on boot otherwise.
 
 Download [24H2 ISO](https://www.microsoft.com/en-us/software-download/windows11), preferably using Media Creation Tool, because [you need ISO that matches the region of your install](https://www.winhelponline.com/blog/keep-personal-files-and-apps-grayed-out-setup/).
 
