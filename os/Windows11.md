@@ -56,10 +56,16 @@ Open Local Group Policy Editor (gpedit.msc), go to Computer Configuration -> Win
 - [WinCaffeine](https://wincaffeine.jonaskohl.de/) - tray utility to prevent PC from sleeping
 - [WinDirStat](https://windirstat.net/) - disk usage statistics viewer
 
-## File transfer
+## Networking
 
 - [qBittorrent](https://www.qbittorrent.org/) - open source BitTorrent client with dark mode support
+- [Tailscale](https://tailscale.com/) - lightweight encrypted tunnels between your computer, VM, or container
 - [WinSCP](https://winscp.net/eng/index.php) - SFTP/WebDAV client with dark mode support (unlike [FileZilla](https://filezilla-project.org/))
+
+## Productivity
+
+- [Fantastical](https://flexibits.com/fantastical) - calendar app with multiple account support, offline mode and search
+- [Obsidian](https://obsidian.md/) - markdown notes app with plugin support and offline mode
 
 ## Development tools
 
