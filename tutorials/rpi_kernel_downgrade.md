@@ -41,6 +41,14 @@ cp /boot/kernel8.img /boot/firmware/kernel8.img
 
 Depending on your hardware revision and bootloader version, the filename might be different. Consult [official documentation](https://www.raspberrypi.com/documentation/computers/config_txt.html#kernel) if your setup boots a "wrong" version of the kernel.
 
+## Prevent apt from upgrading kernel
+
+Instruct apt to hold the currently installed kernel version:
+
+```bash
+apt-mark hold raspberrypi-kernel
+```
+
 ## Notes
 
 On my [Pi4B](/hardware/Pi4B) downgrading the kernel resulted in broken Wayland. Since my usecase does not require graphical session, i did not investigate ways to fix it.
