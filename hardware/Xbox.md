@@ -2,7 +2,7 @@
 
 ## Documentary
 
-[Power On: The Story of Xbox](https://www.youtube.com/playlist?list=PL0il2l-B_WwadxfTkK3-NLoYNcQEHdBGO) is official high production value documentary by Microsoft that covers history of Xbox from early "DirectX box" prototypes up to release of Xbox Series.
+[Power On: The Story of Xbox](https://www.youtube.com/playlist?list=PL0il2l-B_WwadxfTkK3-NLoYNcQEHdBGO) is official high production value documentary by Microsoft that covers history of Xbox from early "DirectX box" prototypes up to release of Xbox Series (2020).
 
 ## Controller compatibility
 
