@@ -74,9 +74,13 @@ Open Local Group Policy Editor (gpedit.msc), go to Computer Configuration -> Win
 
 ## Useful utilities
 
-- [VLC media player](https://www.videolan.org/vlc/) - plays _most_ video files
 - [WinCaffeine](https://wincaffeine.jonaskohl.de/) - tray utility to prevent PC from sleeping
 - [WinDirStat](https://windirstat.net/) - disk usage statistics viewer
+
+## Multimedia tools
+
+- [HandBrake](https://handbrake.fr/features.php) - video converter UI with a long list of presets
+- [VLC media player](https://www.videolan.org/vlc/) - plays _most_ video files
 
 ## Networking
 
