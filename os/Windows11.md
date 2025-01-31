@@ -97,3 +97,4 @@ Open Local Group Policy Editor (gpedit.msc), go to Computer Configuration -> Win
 
 - [Sourcetree](https://www.sourcetreeapp.com/) - Git/Mercurial UI, a free clone of [Tower](https://www.git-tower.com/windows)
 - [Visual Studio Code](https://code.visualstudio.com/) - the safe default development environment for most hobby projects
+- [WinMerge](https://winmerge.org/) - differencing and merging tool with [dark mode support](https://github.com/rkodey/winmerge-visual-studio-dark)
