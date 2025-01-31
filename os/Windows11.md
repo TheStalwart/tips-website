@@ -92,6 +92,7 @@ Open Local Group Policy Editor (gpedit.msc), go to Computer Configuration -> Win
 
 - [Fantastical](https://flexibits.com/fantastical) - calendar app with multiple account support, offline mode and search
 - [Obsidian](https://obsidian.md/) - markdown notes app with plugin support and offline mode
+- [Thunderbird](https://www.thunderbird.net/en-US/) - old school, extensible email and calendar app
 
 ## Development tools
 
