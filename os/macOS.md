@@ -11,3 +11,4 @@
 
 - [Kaleidoscope](https://kaleidoscope.app/) - excellent diff app that, unforunately, adopted subscription pricing
 - [Tower](https://www.git-tower.com/mac) - Git UI, probably the best on the market
+- [Fork](https://git-fork.com/) — another Git UI, close to Tower, ships with a good diff viewer. Available for both Mac and Windows with an endless free trial
