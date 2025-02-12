@@ -72,6 +72,19 @@ Open "Computer Management", go to System Tools -> Local Users and Groups -> User
 
 Open Local Group Policy Editor (gpedit.msc), go to Computer Configuration -> Windows Settings -> Security Settings -> Local Policies -> User Rights Assignment -> Deny access to this computer from the network. Delete "Guest" from the list.
 
+## Diagnostics and overclocking
+
+- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - detailed properties of CPU and RAM
+- [CrystalDiskMark](https://crystalmark.info/en/) - industry standard storage benchmark
+- [FanControl](https://getfancontrol.com/) - fan/pump control utility with highly customizable curves. A must have for thermally challenged builds
+- [FurMark](https://geeks3d.com/furmark/) - GPU stress test
+- [Geekbench](https://www.geekbench.com/) - free synthetic CPU and GPU benchmark
+- [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - detailed properties of GPU
+- [HWINFO64](https://www.hwinfo.com/download/) - free hardware inspector with excellent temperature monitoring
+- [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) - industry standard GPU overclocking and undervolting tool. Bundled with [RTSS](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/), which provides customizable performance HUD and frame rate limiter
+- [MSI Kombustor](https://www.geeks3d.com/furmark/kombustor/downloads/) - GPU stress test
+- [UNIGINE Benchmarks](https://benchmark.unigine.com/) - popular free benchmarks based on a game engine
+
 ## Useful utilities
 
 - [WinCaffeine](https://wincaffeine.jonaskohl.de/) - tray utility to prevent PC from sleeping
