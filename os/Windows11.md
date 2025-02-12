@@ -87,6 +87,7 @@ Open Local Group Policy Editor (gpedit.msc), go to Computer Configuration -> Win
 
 ## Useful utilities
 
+- [7-Zip](https://www.7-zip.org/) - built-in Windows 11 archiving tools are still missing features and failing on some files
 - [WinCaffeine](https://wincaffeine.jonaskohl.de/) - tray utility to prevent PC from sleeping
 - [WinDirStat](https://windirstat.net/) - disk usage statistics viewer
 
