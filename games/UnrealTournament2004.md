@@ -5,3 +5,11 @@ Arena shooter developed by [Digital Extremes](https://www.digitalextremes.com/),
 ## 4K resolution and widescreen mode
 
 Build published on Steam does not natively support 4K nor 16:9 aspect ratio. [foxWSFix](https://github.com/alexstrout/foxWSFix-UT2k4) resolves both issues.
+
+## FPS counter
+
+Open console with `~`, enter the following command:
+
+```shell
+stat fps
+```
