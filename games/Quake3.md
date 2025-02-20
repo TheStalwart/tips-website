@@ -50,4 +50,5 @@ On some GPUs gamma adjustment has no effect unless a workaround is enabled:
 
 ## More information
 
-[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Quake_III_Arena)
+- [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Quake_III_Arena)
+- [An explanation of why setting `com_maxfps 125` yields higher and longer jumps](https://www.youtube.com/watch?v=he02vJvKaRs)
