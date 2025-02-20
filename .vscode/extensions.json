@@ -2,7 +2,6 @@
     "recommendations": [
         "eamodio.gitlens",
         "yzhang.markdown-all-in-one",
-        "antfu.vite",
         "johnpapa.vscode-peacock",
         "DavidAnson.vscode-markdownlint"
     ]
