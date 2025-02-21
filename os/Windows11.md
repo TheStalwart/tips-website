@@ -54,6 +54,13 @@ Mount it, right click on mounted media and select "Open in Terminal", make sure 
 
 On some older machines setup can spend up to 30 minutes displaying blank screen. That is "normal", let it do the thing.
 
+On some machines, using this method will break Windows Update - Cumulative Updates will fail to install quoting error code 0x800f081f. Run Command Prompt as Administrator and enter the following commands to fix the issue:
+
+```shell
+dism /online /cleanup-image /startcomponentcleanup
+dism /online /cleanup-image /restorehealth
+```
+
 ## Activation
 
 Use [Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts).
