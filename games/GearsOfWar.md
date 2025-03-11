@@ -32,7 +32,7 @@ This game is Xbox360 exclusive, also compatible with Xbox Series and Xbox One. R
 
 Split-screen on Console allows each player to log into separate Xbox Account, collecting achievements separately.
 
-"RAAM's Shadow" DLC is _extra content_ set in GoW universe. It's not included in Game Pass and needs to be purchased separately as "RAAM's Shadow: Pack 2" in Windows Store on Xbox One.
+"RAAM's Shadow" DLC is _extra content_ set in GoW universe. It's not included in Game Pass and needs to be purchased separately as "RAAM's Shadow: Pack 2" in Windows Store on Xbox One. It's notable for opportunity to play some missions as enemy faction, with first player controlling RAAM, and other players controlling Locust Elites.
 
 ## Gears of War 4
 
@@ -61,3 +61,5 @@ This game is Xbox360 exclusive, also compatible with Xbox Series and Xbox One.
 The story of this game is technically related to mainline games, but is _extra content_ to be played _after_ Gears 5 (and upcoming 2026 Gears: E-Day).
 
 Gameplay-wise, this game is also slightly different from mainline games, being a collection of loosely-connected short missions with optional extra challenge ("Declassified Missions").
+
+After collecting enough stars in the main campaign, an extra chapter "Aftermath" is unlocked, which is a more traditional Gears experience, and story-wise is an alternative view on events of Gears of War 3 campaign.
