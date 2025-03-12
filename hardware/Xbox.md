@@ -20,4 +20,4 @@ Unlike PlayStation, region lock is trivial to bypass. I have my Xbox Account loc
 
 ## Xbox 360 dashboard
 
-When playing Xbox 360 games, pressing [View and Menu buttons](https://support.xbox.com/en-US/help/hardware-network/controller/xbox-one-wireless-controller) simultaneously will present Xbox 360 dashboard, which is necessary in some games to select Xbox Live account.
+When playing Xbox 360 games on Xbox Series or Xbox One, pressing [View and Menu buttons](https://support.xbox.com/en-US/help/hardware-network/controller/xbox-one-wireless-controller) simultaneously will present Xbox 360 dashboard, which is necessary in some games to select Xbox Live account.
