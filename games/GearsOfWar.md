@@ -26,6 +26,8 @@ Split-screen on Console allows each player to log into separate Xbox Account, co
 
 "Road to Ruin" DLC (aka "Deleted scene") is free but needs to be "Purchased" and installed separately via Windows Store as "Gears of War 2: All Fronts Collection" if you're playing on Xbox One.
 
+Behind the scenes documentary: [Gears of War 2 - Beneath The Surface Epic Games Official Documentary](https://www.youtube.com/watch?v=tonC7H9s7TI).
+
 ## Gears of War 3
 
 This game is Xbox360 exclusive, also compatible with Xbox Series and Xbox One. Remaster for PC was announced, to be released in late 2025.
