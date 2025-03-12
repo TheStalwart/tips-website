@@ -14,6 +14,10 @@ Xbox One controllers are compatible with Xbox One and Xbox Series consoles, and 
 
 Xbox Series controllers are compatible with Xbox One and Xbox Series consoles, and Windows 10 and later.
 
+## Buying digital games in unsupported regions
+
+Unlike PlayStation, region lock is trivial to bypass. I have my Xbox Account location set to Latvia (which is "unsupported" on Console), with latvian credit card set as main payment method, but on my Console region is set to Poland - i was able to purchase DLC content in PLN currency with no extra steps required.
+
 ## Xbox 360 dashboard
 
 When playing Xbox 360 games, pressing [View and Menu buttons](https://support.xbox.com/en-US/help/hardware-network/controller/xbox-one-wireless-controller) simultaneously will present Xbox 360 dashboard, which is necessary in some games to select Xbox Live account.
