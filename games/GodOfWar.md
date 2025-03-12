@@ -25,7 +25,7 @@ The order to play Greek Era is not straightforward. Originally, [PSP](https://en
    - PSP: 2008 Original release
    - PS3:
      - 2011 [Origins Collection](https://en.wikipedia.org/wiki/God_of_War_video_game_collections#God_of_War:_Origins_Collection), aka God of War Collection – Volume II
-     - 2012 [God of War Saga](https://en.wikipedia.org/wiki/God_of_War_video_game_collections#God_of_War_Saga) (US only)
+     - 2012 [God of War Omega Collection](https://en.wikipedia.org/wiki/God_of_War_video_game_collections#God_of_War_Saga) (Latin America only)
 3. God of War (2005)
    - PS2: 2005 Original release
    - PS3: Remastered version included in [2009 God of War Collection](https://en.wikipedia.org/wiki/God_of_War_video_game_collections)
@@ -34,7 +34,7 @@ The order to play Greek Era is not straightforward. Originally, [PSP](https://en
    - PSP: 2010 Original release
    - PS3:
      - 2011 [Origins Collection](https://en.wikipedia.org/wiki/God_of_War_video_game_collections#God_of_War:_Origins_Collection), aka God of War Collection – Volume II
-     - 2012 [God of War Saga](https://en.wikipedia.org/wiki/God_of_War_video_game_collections#God_of_War_Saga) (US only)
+     - 2012 [God of War Omega Collection](https://en.wikipedia.org/wiki/God_of_War_video_game_collections#God_of_War_Saga) (Latin America only)
 5. God of War 2
    - PS2: 2007 Original release
    - PS3: Remastered version included in [2009 God of War Collection](https://en.wikipedia.org/wiki/God_of_War_video_game_collections)
