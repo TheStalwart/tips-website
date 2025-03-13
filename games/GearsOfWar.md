@@ -26,13 +26,13 @@ Playable on PC, Xbox Series and Xbox One, [Ultimate Edition](https://www.microso
 
 Split-screen co-op is not available on PC, it's a feature exclusive to console version.
 
-The original Xbox360 release [is compatible with Xbox Series and Xbox One consoles](https://en.wikipedia.org/wiki/List_of_backward-compatible_games_for_Xbox_One_and_Series_X/S), but if you're set to play the entire series - there's no reason to choose this edition over Ultimate.
+The original Xbox360 release [is compatible with Xbox Series and Xbox One consoles](https://en.wikipedia.org/wiki/List_of_backward-compatible_games_for_Xbox_One_and_Series_X/S) with FPS boost, but if you're set to play the entire series - there's no reason to choose this edition over Ultimate.
 
 Behind the scenes documentary: [Making of - Gears of War (2006) [Behind the Scenes]](https://www.youtube.com/watch?v=r4bFx4Tq7A8)
 
 ## Gears of War 2
 
-This game is Xbox360 exclusive, also compatible with Xbox Series and Xbox One. Remaster for PC was announced, to be released in late 2025.
+This game is Xbox360 exclusive, also compatible with Xbox Series and Xbox One with FPS boost. Xbox One X and Xbox Series X run the game in 4K. Remaster for PC was announced, to be released in late 2025.
 
 Split-screen on Console allows each player to log into separate Xbox Account, collecting achievements separately. There's a [known issue with launching split-screen co-op on Xbox One](https://www.reddit.com/r/GearsOfWar/comments/amnly6/gears_of_war_2_player_couch_coop_how_to_sign_in/). Log into two accounts in Xbox One Dashboard, _then_ launch the game, press [View and Menu buttons](https://support.xbox.com/en-US/help/hardware-network/controller/xbox-one-wireless-controller) simultaneously to present Xbox 360 dashboard and select Xbox Live account for Player 2.
 
@@ -45,7 +45,7 @@ Behind the scenes documentaries:
 
 ## Gears of War 3
 
-This game is Xbox360 exclusive, also compatible with Xbox Series and Xbox One. Remaster for PC was announced, to be released in late 2025.
+This game is Xbox360 exclusive, also compatible with Xbox Series and Xbox One with FPS boost. Xbox One X and Xbox Series X run the game in 4K. Remaster for PC was announced, to be released in late 2025.
 
 Split-screen on Console allows each player to log into separate Xbox Account, collecting achievements separately.
 
@@ -63,7 +63,7 @@ After collecting enough stars in the main campaign, an extra chapter "Aftermath"
 
 ## Gears of War 4
 
-Playable on PC, Xbox Series and Xbox One.
+Playable on PC, Xbox Series and Xbox One. Xbox One X and Xbox Series X run the game in 4K with HDR.
 
 Split-screen on PC is available, but both players will share the same Xbox account. If each player wants to earn their own achievements - play on Xbox Console, or two PCs/Consoles.
 
