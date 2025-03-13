@@ -20,6 +20,8 @@ Xbox Series is the only platform compatible with _every_ game of the series. As 
 
 It seems to be undocumented feature, but it's possible to play co-op on 2x PCs with just one Game Pass subscription. Log into Xbox app with the account having active Game Pass subscription to install and run games for the first time, then close the game and let _Player 2_ log into Xbox app. He can then run the game and join a co-op squad hosted by Game Pass holding account. Exception is DLC content - it will trigger extra DRM verification and kick out players who don't have proof of ownership.
 
+[The FULL Gears Of War Timeline...So Far | Before & After E-Day | Gears Lore - YouTube](https://www.youtube.com/watch?v=2cp9AY5PQeQ) (MAJOR SPOILERS!)
+
 ## Gears of War (1)
 
 Playable on PC, Xbox Series and Xbox One, [Ultimate Edition](https://www.microsoft.com/store/productId/9NBLGGH3SHM5) is _the_ way to play the first game of the series. It has graphics and soundtrack remastered, several cutscenes were completely overhauled, and alternative ending has been implemented to tease the following games of the series.
