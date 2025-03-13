@@ -4,7 +4,17 @@ Series of third person shooter games with excellent story-heavy singleplayer/co-
 
 Development of the first trilogy was lead by [Cliff Bleszinski](https://en.wikipedia.org/wiki/Cliff_Bleszinski), previously known for Unreal and [Unreal Tournament](/games/UnrealTournament99.md) series.
 
-As of Q1 2025, you will need Xbox360 (or newer) Console to play _all_ mainline games of the series. Remasters of GoW 2 and 3 for PC were announced, to be released in late 2025.
+Xbox Series is the only platform compatible with _every_ game of the series. As of Q1 2025, you _need_ an Xbox360 (or newer) Console to play _all_ mainline games of the series, since multiple games were never released on PC. Remasters of GoW 2 and 3 for PC were announced, to be released in late 2025. There was no clear announcement, but Xbox Studios hinted at remastered trilogy and E-Day games coming to PS5. "Judgment" was considered a commercial failure, so i don't expect it to be remastered in the near future.
+
+| Game                   | Xbox 360 | Xbox One | Xbox Series | PC  | PS5 |
+| ---------------------- | -------- | -------- | ----------- | --- | --- |
+| Gears of War 1         | ✅       | ✅      | ✅          | ✅ | TBA |
+| Gears of War 2         | ✅       | ✅      | ✅          | WIP | TBA |
+| Gears of War 3         | ✅       | ✅      | ✅          | WIP | TBA |
+| Gears of War: Judgment | ✅       | ✅      | ✅          | ❌ | ❌  |
+| Gears of War 4         | ❌       | ✅      | ✅          | ✅ | ❌  |
+| Gears 5                | ❌       | ✅      | ✅          | ✅ | ❌  |
+| Gears of War: E-Day    | ❌       | ❌      | ✅          | ✅ | TBA |
 
 [Xbox Game Pass](https://www.xbox.com/en-us/xbox-game-pass/ultimate) is the most cost-efficient way if your goal is to enjoy all the story of singleplayer/co-op campaigns.
 
