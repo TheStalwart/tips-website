@@ -18,6 +18,8 @@ Split-screen co-op is not available on PC, it's a feature exclusive to console v
 
 The original Xbox360 release [is compatible with Xbox Series and Xbox One consoles](https://en.wikipedia.org/wiki/List_of_backward-compatible_games_for_Xbox_One_and_Series_X/S), but if you're set to play the entire series - there's no reason to choose this edition over Ultimate.
 
+Behind the scenes documentary: [Making of - Gears of War (2006) [Behind the Scenes]](https://www.youtube.com/watch?v=r4bFx4Tq7A8)
+
 ## Gears of War 2
 
 This game is Xbox360 exclusive, also compatible with Xbox Series and Xbox One. Remaster for PC was announced, to be released in late 2025.
@@ -26,7 +28,10 @@ Split-screen on Console allows each player to log into separate Xbox Account, co
 
 "Road to Ruin" DLC (aka "Deleted scene") is free but needs to be "Purchased" and installed separately via Windows Store as "Gears of War 2: All Fronts Collection" if you're playing on Xbox One.
 
-Behind the scenes documentary: [Gears of War 2 - Beneath The Surface Epic Games Official Documentary](https://www.youtube.com/watch?v=tonC7H9s7TI).
+Behind the scenes documentaries:
+
+- [Gears of War 2 - Beneath The Surface Epic Games Official Documentary](https://www.youtube.com/watch?v=tonC7H9s7TI)
+- [Gears of War 2 - Making of Game Development with Epic Games Official Documentary](https://www.youtube.com/watch?v=IU9H36cwfFc)
 
 ## Gears of War 3
 
