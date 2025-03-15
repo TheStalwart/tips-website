@@ -71,7 +71,7 @@ Split-screen on PC is available, but both players will share the same Xbox accou
 
 ## Gears 5
 
-Playable on PC, Xbox Series and Xbox One.
+Playable on PC, Xbox Series and Xbox One. This is the only game of the series with 3-player co-op.
 
 Besides Game Pass, Gears 5 can also be purchased on Steam. Cross-play and cross-save between all platforms and storefronts is implemented via Microsoft/Xbox Account.
 
