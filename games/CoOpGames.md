@@ -17,6 +17,7 @@ A series of looter shooters with fairly open world and lots of side quests. Coop
 
 Split-screen is officially only available on Consoles. PC games have fan-made split-screen mods, but older games of the series run on any potato PC so i suggest network play on multiple machines.
 
+- 2022 Tiny Tina's Wonderlands (PC, PS4, PS5, Xbox One, Xbox Series)
 - 2019 Borderlands 3 (PC, PS4, PS5, Switch, Xbox One, Xbox Series)
 - 2014 Borderlands: The Pre-Sequel (PC, PS3, PS4, PS5, Switch, Xbox 360, Xbox One, Xbox Series)
 - 2012 Borderlands 2 (PC, PS3, PS4, PS5, Switch, Xbox 360, Xbox One, Xbox Series)
