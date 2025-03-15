@@ -30,6 +30,8 @@ MCC can also be purchased on Steam. Cross-play between Steam and Game Pass versi
 
 Split-screen co-op is not available on PC, it's a feature exclusive to console version.
 
+In Halo CE and Halo 2 campaigns, co-op is limited to 2 players, later campaigns can be played in up to 4-player co-op.
+
 ## Halo 5: Guardians
 
 This is the only game in mainline Halo series that is Console exclusive, playable on Xbox Series and Xbox One. It also has no keyboard and mouse input support, and no split-screen co-op.
