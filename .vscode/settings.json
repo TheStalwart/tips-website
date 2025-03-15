@@ -4,6 +4,16 @@
     "[markdown]": {
         "editor.tabSize": 2
     },
+    "[jsonc]": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 4,
+        "editor.defaultFormatter": "vscode.json-language-features",
+        // When opening a file, `editor.tabSize` and `editor.insertSpaces`
+        // will be detected based on the file contents. Set to false to keep
+        // the values you've explicitly set, above.
+        // https://stackoverflow.com/a/29972553
+        "editor.detectIndentation": false
+    },
     "peacock.remoteColor": "#42b883",
     "workbench.colorCustomizations": {
         "activityBar.activeBackground": "#65c89b",
