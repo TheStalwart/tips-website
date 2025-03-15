@@ -6,15 +6,15 @@ Development of the first trilogy was lead by [Cliff Bleszinski](https://en.wikip
 
 Xbox Series is the only platform compatible with _every_ game of the series. As of Q1 2025, you _need_ an Xbox360 (or newer) Console to play _all_ mainline games of the series, since multiple games were never released on PC. Remasters of GoW 2 and 3 for PC were announced, to be released in late 2025. "Judgment" was considered a commercial failure, so i don't expect it to be remastered in the near future. There was no clear announcement, but Xbox Studios hinted at remastered trilogy and E-Day games coming to PS5.
 
-| Game                   | Xbox 360 | Xbox One | Xbox Series | PC  | PS5 |
-| ---------------------- | -------- | -------- | ----------- | --- | --- |
-| Gears of War 1         | ✅       | ✅      | ✅          | ✅ | TBA |
-| Gears of War 2         | ✅       | ✅      | ✅          | WIP | TBA |
-| Gears of War 3         | ✅       | ✅      | ✅          | WIP | TBA |
-| Gears of War: Judgment | ✅       | ✅      | ✅          | ❌ | ❌  |
-| Gears of War 4         | ❌       | ✅      | ✅          | ✅ | ❌  |
-| Gears 5                | ❌       | ✅      | ✅          | ✅ | ❌  |
-| Gears of War: E-Day    | ❌       | ❌      | ✅          | ✅ | TBA |
+| Game                                             | Xbox 360 | Xbox One | Xbox Series | PC  | PS5 |
+| ------------------------------------------------ | -------- | -------- | ----------- | --- | --- |
+| [Gears of War 1](#gears-of-war-1)                | ✅       | ✅       | ✅          | ✅  | TBA |
+| [Gears of War 2](#gears-of-war-2)                | ✅       | ✅       | ✅          | WIP | TBA |
+| [Gears of War 3](#gears-of-war-3)                | ✅       | ✅       | ✅          | WIP | TBA |
+| [Gears of War: Judgment](#gears-of-war-judgment) | ✅       | ✅       | ✅          | ❌  | ❌  |
+| [Gears of War 4](#gears-of-war-4)                | ❌       | ✅       | ✅          | ✅  | ❌  |
+| [Gears 5](#gears-5)                              | ❌       | ✅       | ✅          | ✅  | ❌  |
+| [Gears of War: E-Day](#gears-of-war-e-day)       | ❌       | ❌       | ✅          | ✅  | TBA |
 
 [Xbox Game Pass](https://www.xbox.com/en-us/xbox-game-pass/ultimate) is the most cost-efficient way if your goal is to enjoy all the story of singleplayer/co-op campaigns.
 
