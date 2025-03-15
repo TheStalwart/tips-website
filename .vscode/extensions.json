@@ -1,8 +1,9 @@
 {
     "recommendations": [
+        "DavidAnson.vscode-markdownlint",
         "eamodio.gitlens",
-        "yzhang.markdown-all-in-one",
         "johnpapa.vscode-peacock",
-        "DavidAnson.vscode-markdownlint"
+        "TakumiI.markdowntable",
+        "yzhang.markdown-all-in-one",
     ]
 }
