@@ -103,6 +103,7 @@ Open Local Group Policy Editor (gpedit.msc), go to Computer Configuration -> Win
 
 - [HandBrake](https://handbrake.fr/features.php) - video converter UI with a long list of presets
 - [VLC media player](https://www.videolan.org/vlc/) - plays _most_ video files
+- [Voicemeeter Virtual Audio Mixer](https://vb-audio.com/Voicemeeter/index.htm) - audio input mixer and output router
 
 ## Networking
 
