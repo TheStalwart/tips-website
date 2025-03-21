@@ -43,11 +43,15 @@ A big guide for the series is on [a separate page](/games/Halo.md).
 
 ## Hazelight Games
 
-A series of cooperative 3D puzzle platformers by [Hazelight Studios](https://www.hazelight.se/). Every game has a different plot/setting, so they can be played in any sequence.
+A series of cooperative-focused games by [Hazelight Studios](https://www.hazelight.se/). Every game has a different plot/setting, so they can be played in any sequence.
 
 - 2025 Split Fiction (PC, PS5, Xbox Series)
 - 2021 It Takes Two (PC, PS4, PS5, Xbox One, Switch, Xbox Series)
+  - 3D puzzle platformer with lots of mini-games
+  - Antropomorphic toy setting, similar to [Toy Story franchise](https://en.wikipedia.org/wiki/Toy_Story_\(franchise\)), with (mostly) family-friendly humor
 - 2018 A Way Out (PC, PS4, PS5, Xbox One, Xbox Series)
+  - Stealth/puzzle visual novel with some action/shooter sequences in the last third of the game
+  - Criminal drama setting
 - 2013 Brothers: A Tale of Two Sons (PC, PS3, PS4, PS5, Switch, Xbox 360, Xbox One, Xbox Series)
   - Cooperative mode is only available on Nintendo Switch
 
