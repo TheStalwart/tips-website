@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run VitePress Server",
+            "type": "shell",
+            "command": "npx",
+            "args": [
+                "vitepress",
+                "dev",
+                "--host",
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [],
+            "detail": "Run the VitePress development server"
+        }
+    ]
+}

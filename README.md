@@ -12,3 +12,5 @@ Install [NodeJS + NPM](https://nodejs.org/), then:
 npm install
 npx vitepress dev --host
 ```
+
+If you already have `node_modules` installed, VitePress server can be launched with `Ctrl+Shift+B` in VSCode.
