@@ -17,10 +17,12 @@ I run Windows 11 23H2 on CPUs as old as 2008 Core 2 Quad, as long as it's instal
 
 Unplug ethernet cable before installing, and do not connect to Wi-Fi until you see a desktop and a start menu.
 
-On the "Let's connect you to a network" installation step, press "I don't have internet" button. If you don't see it, there are two ways to reveal it:
+On the "Let's connect you to a network" installation step, press "I don't have internet" button. If you don't see it, there are two workarounds:
 
 1. Install from media patched by [Rufus](https://rufus.ie/en/) (see previous section).
-2. Press Shift+F10, enter `oobe\BypassNRO` command (case sensitive!).
+2. Press Shift+F10, enter one of the following commands:
+   - `oobe\BypassNRO` (case sensitive, builds older than March 2025).
+   - `start ms-cxh:localonly` (Home and Pro versions only)
 
 ## Bootloader troubleshooting
 
