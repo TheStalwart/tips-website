@@ -21,7 +21,7 @@ On the "Let's connect you to a network" installation step, press "I don't have i
 
 1. Install from media patched by [Rufus](https://rufus.ie/en/) (see previous section).
 2. Press Shift+F10, enter one of the following commands:
-   - `oobe\BypassNRO` (case sensitive, builds older than March 2025).
+   - `oobe\BypassNRO` (case sensitive, builds older than March 2025)
    - `start ms-cxh:localonly` (Home and Pro versions only)
 
 ## Bootloader troubleshooting
