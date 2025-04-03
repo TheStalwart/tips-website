@@ -23,6 +23,7 @@ On the "Let's connect you to a network" installation step, press "I don't have i
 2. Press Shift+F10, enter one of the following commands:
    - `oobe\BypassNRO` (case sensitive, builds older than March 2025)
    - `start ms-cxh:localonly` (Home and Pro versions only)
+   - `reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE /v BypassNRO /t REG_DWORD /d 1 /f`, then `shutdown /r /t 0`
 
 ## Bootloader troubleshooting
 
