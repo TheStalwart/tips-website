@@ -43,9 +43,10 @@ Restart the installation media and redo Stage 1 of Windows Setup.
 
 ## Update 22H2 to 23H2 on unsupported hardware
 
-When installed on "unsupported" hardware as described in previous sections, Windows Update _will not_ automatically update 22H2 to 23H2. This can be fixed by manually installing KB5027397 (The 23H2 enablement package).
+When installed on "unsupported" hardware as described in previous sections, Windows Update _will not_ automatically update 22H2 to 23H2. This can be fixed by manually installing KB5027397 (The 23H2 enablement package):
 
-Microsoft doesn't offer a straightforward way to download the enablement package, so try [this link](https://www.xda-developers.com/windows-11-version-23h2-manual-install/) instead.
+- [X64 version](https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/caa3ff4a-6420-4341-aeae-33b2d7f463be/public/windows11.0-kb5027397-x64_3a9c368e239bb928c32a790cf1663338d2cad472.msu)
+- [ARM64 version](https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c29dd4ea-7f6a-4636-a991-29ba8ae70658/public/windows11.0-kb5027397-arm64_bacb74fba9077a5b7ae2f74a3ebb0b506f9708f3.msu)
 
 ## Update 23H2 to 24H2 on unsupported hardware
 
