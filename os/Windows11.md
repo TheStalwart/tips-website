@@ -63,6 +63,7 @@ On some machines, using this method will break Windows Update - Cumulative Updat
 ```shell
 dism /online /cleanup-image /startcomponentcleanup
 dism /online /cleanup-image /restorehealth
+sfc /scannow
 ```
 
 ## Activation
