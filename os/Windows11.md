@@ -25,6 +25,8 @@ On the "Let's connect you to a network" installation step, press "I don't have i
    - `start ms-cxh:localonly` (Home and Pro versions only)
    - `reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE /v BypassNRO /t REG_DWORD /d 1 /f`, then `shutdown /r /t 0`
 
+If you need a more detailed guide, follow [Emanuel's article](https://itstechbased.com/new-windows-11-25h2-update-blocks-microsoft-account-bypass-new-methods/).
+
 ## Bootloader troubleshooting
 
 When installing 24H2 over Linux instance with GRUB, on some machines 24H2 installer will fail to correctly overwrite bootloader and will land into GRUB recovery console instead of Stage 2 of Windows Setup.
