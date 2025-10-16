@@ -5,7 +5,12 @@
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - lightweight wrapper around `caffeinate` command
 - [Rectangle](https://rectangleapp.com) - lightweight window tiling utility
 - [Stats](https://github.com/exelban/stats) - menubar gauges
-- [Whisky](https://getwhisky.app/) - a nice UI for [Wine](https://www.winehq.org/) and [Game Porting Toolkit](https://developer.apple.com/games/game-porting-toolkit/)
+
+## Gaming
+
+- [Steam](https://store.steampowered.com/about/) - native Mac version, quite a few games have native macOS builds
+- [CrossOver](https://www.codeweavers.com/crossover) - the most complete package of compatibility layers for Windows games
+- [Whisky](https://getwhisky.app/) - discontinued, but free UI for [Wine](https://www.winehq.org/) and [Game Porting Toolkit](https://developer.apple.com/games/game-porting-toolkit/)
 
 ## Development tools
 
