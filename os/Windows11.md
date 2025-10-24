@@ -45,7 +45,7 @@ Restart the installation media and redo Stage 1 of Windows Setup.
 
 ## Update 22H2 to 23H2 on unsupported hardware
 
-When installed on "unsupported" hardware as described in previous sections, Windows Update _will not_ automatically update 22H2 to 23H2. This can be fixed by manually installing KB5027397 (The 23H2 enablement package):
+When installed on "unsupported" hardware as described in previous sections, Windows Update _will not_ automatically update 22H2 to 23H2. This can be fixed by manually installing [KB5027397](https://support.microsoft.com/en-us/topic/kb5027397-feature-update-to-windows-11-version-23h2-by-using-an-enablement-package-b9e76726-3c94-40de-b40b-99decba3db9d) (The 23H2 enablement package) over 22H2 build 22621.2506 (or newer):
 
 - [X64 version](https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/caa3ff4a-6420-4341-aeae-33b2d7f463be/public/windows11.0-kb5027397-x64_3a9c368e239bb928c32a790cf1663338d2cad472.msu)
 - [ARM64 version](https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c29dd4ea-7f6a-4636-a991-29ba8ae70658/public/windows11.0-kb5027397-arm64_bacb74fba9077a5b7ae2f74a3ebb0b506f9708f3.msu)
@@ -67,6 +67,13 @@ dism /online /cleanup-image /startcomponentcleanup
 dism /online /cleanup-image /restorehealth
 sfc /scannow
 ```
+
+## Update 24H2 to 25H2 on unsupported hardware
+
+When installed on "unsupported" hardware as described in previous sections, Windows Update _will not_ automatically update 24H2 to 25H2. This can be fixed by manually installing [KB5054156](https://support.microsoft.com/en-us/topic/kb5054156-feature-update-to-windows-11-version-25h2-by-using-an-enablement-package-4d307e2d-3028-4323-bb46-552cff491643) (The 25H2 enablement package) over 24H2 build 26100.5074 (or newer):
+
+- [X64 version](https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/fa84cc49-18b2-4c26-b389-90c96e6ae0d2/public/windows11.0-kb5054156-x64_a0c1638cbcf4cf33dbe9a5bef69db374b4786974.msu)
+- [ARM64 version](https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/78b265e5-83a8-4e0a-9060-efbe0bac5bde/public/windows11.0-kb5054156-arm64_3d5c91aaeb08a87e0717f263ad4a61186746e465.msu)
 
 ## Activation
 
