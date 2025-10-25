@@ -30,7 +30,7 @@ If you need a more detailed guide, follow [Emanuel's article](https://itstechbas
 
 ## Bootloader troubleshooting
 
-When installing 24H2 over Linux instance with GRUB, on some machines 24H2 installer will fail to correctly overwrite bootloader and will land into GRUB recovery console instead of Stage 2 of Windows Setup.
+When installing Windows 11 over Linux instance with GRUB, on some machines Windows Setup will fail to correctly overwrite bootloader and will land into GRUB recovery console instead of Stage 2 of Windows Setup.
 
 To overwrite bootloader manually, restart installation media and select `Repair my PC -> Troubleshoot -> Command Prompt` or press Shift+F10, then enter the following commands:
 
