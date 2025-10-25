@@ -2,7 +2,7 @@
 
 ## Install on unsupported hardware
 
-For Windows 11 24H2 to run well and be usable for modern web apps and low spec games the system requirements are the following:
+For Windows 11 25H2 to run well and be usable for modern web apps and low spec games the system requirements are the following:
 
 - 64bit CPU with POPCNT instruction (SSE 4.2 or SSE 4a)
   - 2008 Intel Core i3/i5/i7 ([Nehalem](https://en.wikipedia.org/wiki/Nehalem_(microarchitecture))) or newer
@@ -10,7 +10,7 @@ For Windows 11 24H2 to run well and be usable for modern web apps and low spec g
 - 8GB RAM
 - SSD
 
-I run Windows 11 23H2 on CPUs as old as 2008 Core 2 Quad, as long as it's installed on SSD and has enough RAM - the PC is usable for YouTube and osu! (not at the same time though).
+I ran Windows 11 23H2 on CPUs as old as 2008 Core 2 Quad, as long as it's installed on SSD and has enough RAM - the PC is usable for YouTube and osu! (not at the same time though).
 
 [Vanilla Windows 11 ISO from microsoft.com](https://www.microsoft.com/en-us/software-download/windows11/) will bitch about not having TPM 2.0 and Secure Boot, but when creating install media using [Rufus](https://rufus.ie/en/) these checks can be disabled.
 
