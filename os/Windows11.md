@@ -5,7 +5,8 @@
 For Windows 11 24H2 to run well and be usable for modern web apps and low spec games the system requirements are the following:
 
 - 64bit CPU with POPCNT instruction (SSE 4.2 or SSE 4a)
-  - Exception: [AMD K10-based CPUs](https://en.wikipedia.org/wiki/AMD_10h) are not supported
+  - 2008 Intel Core i3/i5/i7 ([Nehalem](https://en.wikipedia.org/wiki/Nehalem_(microarchitecture))) or newer
+  - 2011 AMD FX Series ([Bulldozer](https://en.wikipedia.org/wiki/Bulldozer_(microarchitecture))) or newer
 - 8GB RAM
 - SSD
 
