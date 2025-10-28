@@ -18,6 +18,7 @@ It's hip to hate Windows 11, however there's still a mix of pragmatic reasons to
 - Better touchscreen support for tablet and handheld devices without hardware keyboard
 - Better dark mode support in system apps
 - [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) out of the box
+- Xbox Game Pass does not work on Linux
 
 ## Install on unsupported hardware
 
