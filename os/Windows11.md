@@ -1,5 +1,24 @@
 # Windows 11
 
+It's hip to hate Windows 11, however there's still a mix of pragmatic reasons to leave Windows 10 in the past, and wait before switching the main gaming rig to Linux. Not every bullet point applies to everyone, but if you intend to play modern and upcoming games - the most compatible OS for that is obvious.
+
+- No meaningful gaming performance difference with Windows 10 or Linux
+  - Proton on Linux is trading blows with Windows 11 in hardware and game specific edge cases
+  - If a PC can't run Windows 11 well - it will also be miserable with a feature-complete full desktop Linux setup like [Bazzite](https://bazzite.gg/)
+  - Options of degrading security and convenience of Windows 11 to gain margin-of-error FPS boost are the same as any other OS. Feel free to try [LTSC versions of Windows](https://www.youtube.com/watch?v=bValhYdrATw) or [disable "unnecessary" services](https://www.elevenforum.com/t/which-services-do-you-recommend-to-disable-here-is-my-list.36437/). I used to ["debloat" Windows XP](https://www.nliteos.com/) back in the days, and then ran into issues like game installers/launchers tripping on printer drivers i disabled, when displaying license agreement, or in-game cutscenes relying on Windows Media Player
+  - The actual effort by Microsoft/Xbox to improve gaming performance on Windows will be released in 2026 as [Xbox Fullscreen Experience](https://www.youtube.com/watch?v=YJ7dwcnRjTc), exclusively on Windows 11
+  - NVIDIA GPUs older than GTX 10xx series are stuck with outdated drivers on Linux, with no Wayland support, while on Windows those GPUs are still fully supported
+- Modern display support
+  - HDMI 2.1 is not implemented in AMD Linux driver [for legal reasons](https://www.phoronix.com/news/HDMI-2.1-OSS-Rejected)
+  - fractional scaling, mixed scale and mixed dynamic range support is very bad on Windows 10
+- Most Online PvP games require kernel-level anti-cheats ([list of games](https://levvvel.com/games-with-kernel-level-anti-cheat-software/))
+  - If your PC is [compliant with Vanguard requirements](https://support-valorant.riotgames.com/hc/en-us/articles/22291331362067-Vanguard-Restrictions), it's also compatible with Windows 11
+  - The industry standard practice as of 2025, is to not implement, or even intentionally break Linux support in games with Online PvP
+- Complete DirectX 12 Ultimate implementation, including DirectStorage
+- Better touchscreen support for tablet and handheld devices without hardware keyboard
+- Better dark mode support in system apps
+- [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) out of the box
+
 ## Install on unsupported hardware
 
 For Windows 11 25H2 to run well and be usable for modern web apps and low spec games the system requirements are the following:
