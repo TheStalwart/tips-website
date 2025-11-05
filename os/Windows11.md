@@ -117,7 +117,7 @@ Open Local Group Policy Editor (gpedit.msc), go to Computer Configuration -> Win
 ## Diagnostics and overclocking
 
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - detailed properties of CPU and RAM
-- [CrystalDiskMark](https://crystalmark.info/en/) - industry standard storage benchmark
+- [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) and [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - industry standard storage diagnostics and benchmark
 - [FanControl](https://getfancontrol.com/) - fan/pump control utility with highly customizable curves. A must have for thermally challenged builds
 - [FurMark](https://geeks3d.com/furmark/) - GPU stress test
 - [Geekbench](https://www.geekbench.com/) - free synthetic CPU and GPU benchmark
