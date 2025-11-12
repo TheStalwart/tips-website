@@ -96,6 +96,20 @@ When installed on "unsupported" hardware as described in previous sections, Wind
 - [X64 version](https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/fa84cc49-18b2-4c26-b389-90c96e6ae0d2/public/windows11.0-kb5054156-x64_a0c1638cbcf4cf33dbe9a5bef69db374b4786974.msu)
 - [ARM64 version](https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/78b265e5-83a8-4e0a-9060-efbe0bac5bde/public/windows11.0-kb5054156-arm64_3d5c91aaeb08a87e0717f263ad4a61186746e465.msu)
 
+## Leaving Windows Insider Release Preview
+
+The "Unenroll this device when the next version of Windows releases" feature of Windows Update is broken as of Late 2025.
+
+When eligible, it's possible to manually edit registry to disable Windows Insider feature and stay on General Availability Channel.
+
+To check for eligibility for leaving Release Preview Channel, you need to compare branch version of General Availability Channel to what's currently installed on your machine. Visit [Servicing channels](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information#servicing-channels) page and compare "Latest build" values to the output of `winver` command on your machine. If there's a channel serving builds with matching first part, preferably exact same build number or a build number with matching first part and higher second part, it's safe to delete Windows Insider configuration manually to effectively stop receiving Insider builds.
+
+Run `regedit`, navigate to `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\`, and delete the entire `WindowsSelfHost` branch with all subfolders and keys. Restart Windows and make sure "Windows Insider Program" section is reset to onboarding invitation. From now on, Windows Update should only pull updates from General Availability Channel.
+
+If the build number installed on your machine has higher second part but matching first part, you might want to "Pause updates" for a week or two just to make sure there's an upgrade path out of Release Preview Channel.
+
+If your machine is currently on Dev or Beta Channel, you could plan your exit strategy by monitoring build numbers on [Flight Hub](https://learn.microsoft.com/en-us/windows-insider/flight-hub/), but that's beyond the scope of this guide.
+
 ## Activation
 
 Use [Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts).
