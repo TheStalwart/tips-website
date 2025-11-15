@@ -2,6 +2,12 @@
 
 After 25+ years of custom PC building and troubleshooting, i must admit the bullshit never ends. Consoles exist for a reason.
 
+## Operating Systems
+
+- [Windows 11](/os/Windows11.md) - the most _compatible_ OS for running modern games on modern hardware
+- [Windows XP](/os/WindowsXP.md) - the version of Windows that makes the most sense on pre-2008 hardware
+- [Bazzite](https://bazzite.gg/) - SteamOS-like flavor of Fedora Linux, excellent out-of-box experience
+
 ## Random PC Tips
 
 - Always check date and time are set correctly. No app will warn you about suspicious date, you'll just waste time troubleshooting seemingly random bugs and crashes.
