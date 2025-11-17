@@ -8,6 +8,7 @@
 | [Halo](#halo)                       | First Person shooter | PC, Xbox                          | ⚠️         | 2-4     |
 | [Hazelight Games](#hazelight-games) | 3D Platformer        | PC, PlayStation, Switch, Xbox     | ✅           | 2       |
 | [Portal 2](#portal-2)               | First Person Puzzle  | Linux, Mac, PC, PS3, Switch, Xbox | ✅           | 2       |
+| [Sniper Elite](#sniper-elite)       | Third Person Shooter | PC, PlayStation, Switch, Xbox     | ⚠️           | 2-4     |
 | Urban Flow                          | Strategy Puzzle      | PC, PlayStation, Switch, Xbox     | ✅           | 2-4     |
 | Unravel Two                         | Platformer Puzzle    | PC, PlayStation, Switch, Xbox     | ✅           | 2       |
 
@@ -64,3 +65,9 @@ Valve's first person puzzle has a separate campaign to be played in 2-person coo
 The game is available for any potato PC, as well as Linux, Mac, PlayStation 3, Nintendo Switch, Xbox 360, Xbox One, Xbox Series.
 
 Split-screen on PC has technical challenges, but there's [a guide with workarounds](https://steamcommunity.com/sharedfiles/filedetails/?id=239373369).
+
+## Sniper Elite
+
+A series of tactical third person shooter games by Rebellion. Co-op gameplay is intended to be symmetrical, but level design of the later games leaves enough freedom to leverage a cooperative gameplay. Once you learn the basics of the gameplay, i suggest bumping up difficulty and approaching every mission as a puzzle to solve.
+
+The very first 2005 game had split-screen co-op in console ports. Subsequent games of the series had network-based co-op implementation.
