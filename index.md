@@ -14,12 +14,15 @@ hero:
   #     text: API Examples
   #     link: /api-examples
 
-# features:
-#  - title: Feature A
-#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#  - title: Feature B
-#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#  - title: Feature C
-#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+features:
+ - title: Windows 11
+   details: Install latest Windows version and customize for best gaming experience
+   link: /os/Windows11.md
+ - title: Windows XP
+   details: Configure pre-2008 PCs for running older games and apps
+   link: /os/WindowsXP.md
+ - title: Co-Op games
+   details: List of great cooperative multiplayer games
+   link: /games/CoOpGames.md
 ---
 
