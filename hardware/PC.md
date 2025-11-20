@@ -6,7 +6,8 @@ After 25+ years of custom PC building and troubleshooting, i must admit the bull
 
 - [Windows 11](/os/Windows11.md) - the most _compatible_ OS for running modern games on modern hardware
 - [Windows XP](/os/WindowsXP.md) - the version of Windows that makes the most sense on pre-2008 hardware
-- [Bazzite](https://bazzite.gg/) - SteamOS-like flavor of Fedora Linux, excellent out-of-box experience
+- [SteamOS](/os/SteamOS.md) - opinionated handheld/livingroom gaming experience by Valve, but limited hardware support
+- [Bazzite](https://bazzite.gg/) - SteamOS-like flavor of Fedora Linux, excellent out-of-box experience on a wide variety of PC hardware
 
 ## Random PC Tips
 
