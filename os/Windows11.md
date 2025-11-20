@@ -2,23 +2,32 @@
 
 It's hip to hate Windows 11, however there's still a mix of pragmatic reasons to leave Windows 10 in the past, and wait before switching the main gaming rig to Linux. Not every bullet point applies to everyone, but if you intend to play modern and upcoming games - the most compatible OS for that is obvious.
 
-- No meaningful gaming performance difference with Windows 10 or Linux
-  - Proton on Linux is trading blows with Windows 11 in hardware and game specific edge cases
-  - If a PC can't run Windows 11 well - it will also be miserable with a feature-complete full desktop Linux setup like [Bazzite](https://bazzite.gg/)
-  - Options of degrading security and convenience of Windows 11 to gain margin-of-error FPS boost are the same as any other OS. Feel free to try [LTSC versions of Windows](https://www.youtube.com/watch?v=bValhYdrATw) or [disable "unnecessary" services](https://www.elevenforum.com/t/which-services-do-you-recommend-to-disable-here-is-my-list.36437/). I used to ["debloat" Windows XP](https://www.nliteos.com/) back in the days, and then ran into issues like game installers/launchers tripping on printer drivers i disabled, when displaying license agreement, or in-game cutscenes relying on Windows Media Player
-  - The actual effort by Microsoft/Xbox to improve gaming performance on Windows will be released in 2026 as [Xbox Fullscreen Experience](https://www.youtube.com/watch?v=YJ7dwcnRjTc), exclusively on Windows 11
-  - NVIDIA GPUs older than GTX 10xx series are stuck with outdated drivers on Linux, with no Wayland support, while on Windows those GPUs are still fully supported
-- Modern display support
-  - HDMI 2.1 is not implemented in AMD Linux driver [for legal reasons](https://www.phoronix.com/news/HDMI-2.1-OSS-Rejected)
-  - fractional scaling, mixed scale and mixed dynamic range support is very bad on Windows 10
-- Most Online PvP games require kernel-level anti-cheats ([list of games](https://levvvel.com/games-with-kernel-level-anti-cheat-software/))
-  - If your PC is [compliant with Vanguard requirements](https://support-valorant.riotgames.com/hc/en-us/articles/22291331362067-Vanguard-Restrictions), it's also compatible with Windows 11
-  - The industry standard practice as of 2025, is to not implement, or even intentionally break Linux support in games with Online PvP
-- Complete DirectX 12 Ultimate implementation, including DirectStorage
-- Better touchscreen support for tablet and handheld devices without hardware keyboard
-- Better dark mode support in system apps
-- [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) out of the box
+## Reasons to stay on Windows, and not switch to Linux
+
+- HDMI 2.1 is not implemented in AMD Linux driver [for legal reasons](https://www.phoronix.com/news/HDMI-2.1-OSS-Rejected). Consider this when buying your next display and/or GPU if you want to switch to Linux in the future
+- Performance promises are inconsistent - [Proton on Linux](https://github.com/ValveSoftware/Proton) is trading blows with Windows 11 in hardware and game specific edge cases. [Native Linux builds](https://larian.com/support/faqs/steam-deck-native-version_121) of popular games are still rare
+- If a PC can't run Windows 11 well - it will also be miserable with a feature-complete full desktop Linux setup like [Bazzite](https://bazzite.gg/) with [KDE Plasma](https://kde.org/plasma-desktop/)
+- NVIDIA GPUs older than GTX 10xx series are stuck with outdated drivers on Linux, with no Wayland support, while on Windows those GPUs are still fully supported
 - Xbox Game Pass does not work on Linux
+- Most Online PvP games require kernel-level anti-cheats ([list of games](https://levvvel.com/games-with-kernel-level-anti-cheat-software/))
+  - If your PC is [compliant with Vanguard requirements](https://support-valorant.riotgames.com/hc/en-us/articles/22291331362067-Vanguard-Restrictions), it's also fully compatible with Windows 11
+  - The industry standard practice as of 2025, is to not implement, or even intentionally break Linux support in games with Online PvP
+
+## Reasons to upgrade from Windows 10
+
+- No meaningful gaming performance difference between Windows 10 and Windows 11 on modern hardware
+- The effort by Microsoft/Xbox to improve gaming performance on Windows will be released in 2026 as [Xbox Fullscreen Experience](https://www.youtube.com/watch?v=YJ7dwcnRjTc), exclusively on Windows 11
+- Modern display support - fractional scaling, mixed scale and mixed dynamic range is very bad on Windows 10
+- Better touchscreen and game controller support for tablet and handheld devices without hardware keyboard
+- Complete DirectX 12 Ultimate implementation, including DirectStorage
+- Better [dark mode support in system apps](https://www.windowscentral.com/microsoft/windows-11/microsoft-makes-it-official-dark-mode-is-getting-a-major-and-sorely-needed-upgrade-on-windows-11)
+- [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) out of the box
+
+## Just mod it
+
+Options of degrading security and convenience of Windows 11 to gain margin-of-error FPS boost are the same as any other OS. Feel free to try [LTSC versions of Windows](https://www.youtube.com/watch?v=bValhYdrATw) or [disable "unnecessary" services](https://www.elevenforum.com/t/which-services-do-you-recommend-to-disable-here-is-my-list.36437/). I used to ["debloat" Windows XP](https://www.nliteos.com/) back in the days, and then ran into issues like game installers/launchers tripping on printer drivers i disabled, when displaying license agreement, or in-game cutscenes relying on Windows Media Player.
+
+If your plan with Linux is to use minimal desktop and [customize kernel with performance patches](https://github.com/theyareonit/linux-gaming-optimization), consider doing the same with Windows 11. There are ways to gain performance by [disabling all security features](https://github.com/turgay23/shoober420_windows11-batch-scripts/blob/main/DisableCPUMitigations.bat) and stripping down desktop to [bare minimum](https://github.com/8bit2qubit/XboxFullscreenExperienceTool), while retaining anticheat compatibility.
 
 ## Install on unsupported hardware
 
