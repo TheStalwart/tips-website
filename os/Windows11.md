@@ -5,7 +5,7 @@ It's hip to hate Windows 11, however there's still a mix of pragmatic reasons to
 ## Reasons to stay on Windows, and not switch to Linux
 
 - HDMI 2.1 is not implemented in AMD Linux driver [for legal reasons](https://www.phoronix.com/news/HDMI-2.1-OSS-Rejected). Consider this when buying your next display and/or GPU if you want to switch to Linux in the future
-- Performance promises are inconsistent - [Proton on Linux](https://github.com/ValveSoftware/Proton) is trading blows with Windows 11 in hardware and game specific edge cases. [Native Linux builds](https://larian.com/support/faqs/steam-deck-native-version_121) of popular games are still rare
+- Performance promises are inconsistent - [Proton on Linux](https://github.com/ValveSoftware/Proton) is trading blows with Windows 11 in hardware and game specific edge cases. [Native Linux builds](https://larian.com/support/faqs/steam-deck-native-version_121) of popular games are still rare. [Proper testing methodology](https://www.youtube.com/watch?v=ovOx4_8ajZ8) reveals many issues that might be fixed tomorrow, but still worth noting.
 - If a PC can't run Windows 11 well - it will also be miserable with a feature-complete full desktop Linux setup like [Bazzite](https://bazzite.gg/) with [KDE Plasma](https://kde.org/plasma-desktop/)
 - NVIDIA GPUs older than GTX 10xx series are stuck with outdated drivers on Linux, with no Wayland support, while on Windows those GPUs are still fully supported
 - Xbox Game Pass does not work on Linux

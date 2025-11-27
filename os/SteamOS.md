@@ -27,6 +27,12 @@ Long answer: you really want to use a game controller, because [the rest of the 
 
 By default, "deck" user has no password set. To escalate privileges with `sudo`, you need to use `passwd` command first, to set a known password.
 
+## Gaming performance inconsistency
+
+It's a good problem to have, but the amount of [games that run _well_ on Linux](https://www.protondb.com/) in recent years outpaced the effort put into GPU drivers and other components of GUI pipeline. For some reason, things like [VSync toggle are still work in progress](https://wayland.app/protocols/tearing-control-v1) for some desktop environments.
+
+The unfortunate reality is, [more money does not mean more FPS](https://www.youtube.com/watch?v=ovOx4_8ajZ8).
+
 ## Security Issues
 
 SteamOS uses a single UNIX user for all Steam accounts.
