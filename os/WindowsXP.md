@@ -64,3 +64,7 @@ Internet Explorer 6 and 8 do not support modern HTTPS, and modern web avoids une
 ## Force high refresh rate in games
 
 Use [RefreshLock](https://www.softpedia.com/get/Tweak/Video-Tweak/RefreshLock.shtml) app.
+
+## Reduce input lag
+
+Disable VSync globally using NVIDIA/ATI/AMD control panel. FreeSync/G-Sync was introduced on Windows 7, so you will have to deal with tearing, but DirectX <=9 games always introduce noticeable mouse input lag even if the machine is capable of rendering at monitor refresh rate.
