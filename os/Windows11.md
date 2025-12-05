@@ -29,6 +29,11 @@ Options of degrading security and convenience of Windows 11 to gain margin-of-er
 
 If your plan with Linux is to use minimal desktop and [customize kernel with performance patches](https://github.com/theyareonit/linux-gaming-optimization), consider doing the same with Windows 11. There are ways to gain performance by [disabling all security features](https://github.com/turgay23/shoober420_windows11-batch-scripts/blob/main/DisableCPUMitigations.bat) and stripping down desktop to [bare minimum](https://github.com/8bit2qubit/XboxFullscreenExperienceTool), while retaining anticheat compatibility.
 
+To learn from your own mistakes, consider the following projects:
+
+- [Chris Titus Tech's Windows Utility](https://christitus.com/windows-tool/)
+- [tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+
 ## Install on unsupported hardware
 
 For Windows 11 25H2 to run well and be usable for modern web apps and low spec games the system requirements are the following:
