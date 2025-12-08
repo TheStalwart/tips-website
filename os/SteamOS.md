@@ -14,6 +14,38 @@ If you're reading this after 3.8 public release, or intend to install on hardwar
 
 Recovery Live Image does not boot via Ventoy. You need a dedicated USB drive to run it.
 
+## Updating from CLI
+
+Check current update branch:
+
+```sh
+steamos-select-branch -c
+```
+
+List available update branches:
+
+```sh
+steamos-select-branch -l
+```
+
+Select a branch containing a newer build:
+
+```sh
+steamos-select-branch main
+```
+
+Check newer build availability:
+
+```sh
+steamos-update check
+```
+
+Install update (may get stuck at 0.0% for a while, let it cook):
+
+```sh
+steamos-update
+```
+
 ## Button mapping in Game Mode
 
 Short answer:
