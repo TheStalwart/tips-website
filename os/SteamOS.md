@@ -63,6 +63,8 @@ By default, "deck" user has no password set. To escalate privileges with `sudo`,
 
 It's a good problem to have, but the amount of [games that run _well_ on Linux](https://www.protondb.com/) in recent years outpaced the effort put into GPU drivers and other components of GUI pipeline. For some reason, things like [VSync toggle are still work in progress](https://wayland.app/protocols/tearing-control-v1) for some desktop environments.
 
+SteamOS and Bazzite in Game Mode use ~400MB less VRAM than clean Windows 11 instance, but ironically - NVIDIA GPUs, most affected by lower VRAM capacity, have worse Linux driver than AMD overall.
+
 The unfortunate reality is, [more money does not mean more FPS](https://www.youtube.com/watch?v=ovOx4_8ajZ8).
 
 ## Security Issues
