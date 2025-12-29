@@ -50,8 +50,8 @@ steamos-update
 
 Short answer:
 
-- STEAM: Ctrl+1
-- OOO: Ctrl+2
+- STEAM: Shift+Tab or Ctrl+1
+- OOO: Ctrl+Shift+Tab or Ctrl+2
 
 Long answer: you really want to use a game controller, because [the rest of the keybinds](https://blog.jadaml.website/2025/06/02/control-steam-deck-with-the-keyboard/) are more of a workaround than intended control scheme, as suggested by the lack of [input glyphs](https://eviltwo.github.io/InputGlyphs_Docs/) when no controllers are connected.
 
