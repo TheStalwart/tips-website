@@ -4,7 +4,14 @@
 
 ## Installing on non-Valve hardware
 
-You need a GPU that supports Wayland with no extra steps. If you have NVIDIA GPU - try [Bazzite](https://bazzite.gg/) instead.
+You need a GPU that supports Vulkan and Wayland with no extra steps. Oldest compliant as of 2026:
+
+- AMD GCN 1.0:
+  - Desktop: 2012 Radeon HD 7000 series
+  - Mobile: 2013 Radeon HD 8000M series (8000D and 8000G not supported)
+- Intel: 2015 6th generation Core "Skylake" iGPU
+
+If you have NVIDIA GPU - [Bazzite](https://bazzite.gg/) is an option, but every game [i tested on GTX 1660 SUPER](https://docs.google.com/spreadsheets/d/1EZjM2UEp4BOFrTgkoYpacxS94z0WwJI-eyRh6DAf14E/edit?gid=63506070#gid=63506070) performed _significantly_ worse than on a regular non-debloated Windows 11 25H2. To improve Windows experience on handheld and TV setups, try [Xbox Full Screen Experience Tool](https://github.com/8bit2qubit/XboxFullScreenExperienceTool).
 
 When installing on non-NVME storage, [a customized installation script](https://github.com/louij2/steamos_custom_install) is required.
 
