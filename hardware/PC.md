@@ -64,3 +64,7 @@ Some Pentium 1-3 PCs do not support USB bootable media. If you want to maintain 
 - IDE to USB adapter and a backup of known good OS instance
 
 Modern PCs have two ways to boot the OS - current industry standard UEFI, and Legacy CSM (BIOS). Some bootable images are only compatible with one of them. For most bootable images, [Ventoy](https://www.ventoy.net/en/index.html) is an excellent solution. [Rufus](https://rufus.ie/en/) has a setting to choose UEFI or CSM mode when creating a bootable USB.
+
+## Too many Boot Devices
+
+On [MSI A55M-P33](https://www.msi.com/Motherboard/A55M-P33/Specification) motherboard, the menu to select a Hard Disk to boot from only lists 9 devices. I have 14 installed in my NAS build, so newly connected (replacement) boot drive cannot be set as the 1st boot device unless some of the storage drives are disconnected. Fortunately, once saved - the setting persists, and once the correct boot device priority is set, the rest of the storage drives can be reconnected.
