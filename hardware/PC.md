@@ -2,12 +2,14 @@
 
 After 25+ years of custom PC building and troubleshooting, i must admit the bullshit never ends. Consoles exist for a reason.
 
-## Operating Systems
+## Notable Operating Systems
 
 - [Windows 11](/os/Windows11.md) - the most _compatible_ OS for running modern games on modern hardware
 - [Windows XP](/os/WindowsXP.md) - the version of Windows that makes the most sense on pre-2008 hardware
 - [SteamOS](/os/SteamOS.md) - opinionated handheld/livingroom gaming experience by Valve, but limited hardware support
 - [Bazzite](https://bazzite.gg/) - SteamOS-like flavor of Fedora Linux, excellent out-of-box experience on a wide variety of PC hardware
+- [TrueNAS](https://www.truenas.com/truenas-community-edition/) - Linux distro for NAS builds with Web UI. Requires understanding of ZFS and SMB, but most of the setup and maintenance can be done without CLI
+- [Proxmox VE](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview) - Linux-based virtual machine host with Web UI, ZFS and clustering
 
 ## Generations
 
