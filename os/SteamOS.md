@@ -4,7 +4,7 @@
 
 ## Installing on non-Valve hardware
 
-You need a GPU that supports Vulkan and Wayland with no extra steps. Oldest compliant as of 2026:
+You need a NVMe boot drive and a GPU that supports Vulkan and Wayland with no extra steps. Oldest compliant as of 2026:
 
 - AMD GCN 1.0:
   - Desktop: 2012 Radeon HD 7000 series
@@ -13,9 +13,9 @@ You need a GPU that supports Vulkan and Wayland with no extra steps. Oldest comp
 
 If you have NVIDIA GTX 9xx or newer - [Bazzite](https://bazzite.gg/) is an option, but every game [i tested on GTX 1660 SUPER](https://docs.google.com/spreadsheets/d/1EZjM2UEp4BOFrTgkoYpacxS94z0WwJI-eyRh6DAf14E/edit?gid=63506070#gid=63506070) performed _significantly_ worse than on a regular non-debloated Windows 11 25H2. To improve Windows experience on handheld and TV setups, try [Xbox Full Screen Experience Tool](https://github.com/8bit2qubit/XboxFullScreenExperienceTool).
 
-NVIDIA GPUs older than GTX 9xx require kernel downgrade and heavy customization to even have chance of performing at half the framerate of regular install of Windows 11. Considering an ancient like GTX 770 outperforms a Valve SteamDeck and most integrated laptop GPUs - it's still a very usable hardware.
+NVIDIA GPUs older than GTX 9xx don't support Wayland (so no "Game Mode") and require kernel downgrade and heavy customization to even have chance of performing at half the framerate of regular install of Windows 11.
 
-When installing on non-NVME storage, [a customized installation script](https://github.com/louij2/steamos_custom_install) is required.
+When installing on non-NVMe storage, [a customized installation script](https://github.com/louij2/steamos_custom_install) is required, and as of January 2026, the resulting system will fail to update itself. This issue might never be fixed, so acquire NVMe drive or switch to Bazzite.
 
 I used [this particular build of 3.8](https://steamdeck-images.steamos.cloud/steamdeck/20251027.1000/), because "stable" 3.7 recovery image kept failing at second stage of the install after selecting time zone and network connection.
 
