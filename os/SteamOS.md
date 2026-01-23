@@ -25,6 +25,12 @@ Recovery Live Image does not boot via Ventoy. You need a dedicated USB drive to 
 
 ## Updating from CLI
 
+Check current version:
+
+```sh
+cat /etc/os-release
+```
+
 Check current update branch:
 
 ```sh
