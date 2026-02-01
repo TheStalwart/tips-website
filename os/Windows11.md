@@ -161,7 +161,7 @@ Open Local Group Policy Editor (gpedit.msc), go to Computer Configuration -> Win
 - [Sysinternals Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) - search for open file handles, and a bunch of other features, when Windows' built-in Task Manager is not enough
 - [UniGetUI](https://www.marticliment.com/unigetui/) - GUI for package managers like Winget and Chocolatey
 - [WinCaffeine](https://wincaffeine.jonaskohl.de/) - tray utility to prevent PC from sleeping
-- [WinDirStat](https://windirstat.net/) - disk usage statistics viewer (install [Release Candidate](https://github.com/windirstat/windirstat/releases) for Dark Mode)
+- [WinDirStat](https://windirstat.net/) - disk usage statistics viewer
 
 ## Multimedia tools
 
