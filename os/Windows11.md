@@ -23,6 +23,12 @@ It's hip to hate Windows 11, however there's still a mix of pragmatic reasons to
 - Better [dark mode support in system apps](https://www.windowscentral.com/microsoft/windows-11/microsoft-makes-it-official-dark-mode-is-getting-a-major-and-sorely-needed-upgrade-on-windows-11)
 - [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) out of the box
 
+The often discussed claim that Windows 10 is now unsupported is not actually true.
+Windows 10 IoT LTSC will be supported with security updates until Jan 13, 2032,
+AMD/NVIDIA still release GPU drivers for Windows 10, and most games and apps still work as expected.
+Most Pro and Home editions of Windows 10 [can be converted to LTSC](https://massgrave.dev/windows10_eol)
+without losing any data or settings.
+
 ## Just mod it
 
 Options of degrading security and convenience of Windows 11 to gain margin-of-error FPS boost are the same as any other OS. Feel free to try [LTSC versions of Windows](https://www.youtube.com/watch?v=bValhYdrATw) or [disable "unnecessary" services](https://www.elevenforum.com/t/which-services-do-you-recommend-to-disable-here-is-my-list.36437/). I used to ["debloat" Windows XP](https://www.nliteos.com/) back in the days, and then ran into issues like game installers/launchers tripping on printer drivers i disabled, when displaying license agreement, or in-game cutscenes relying on Windows Media Player.
