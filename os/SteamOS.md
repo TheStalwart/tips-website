@@ -4,7 +4,7 @@
 
 ## Installing on non-Valve hardware
 
-You need a NVMe boot drive and a GPU that supports Vulkan and Wayland with no extra steps. Oldest compliant as of 2026:
+You need a GPU that supports Vulkan and Wayland with no extra steps. Oldest compliant as of 2026:
 
 - AMD GCN 1.0:
   - Desktop: 2012 Radeon HD 7000 series
@@ -15,9 +15,17 @@ If you have NVIDIA GTX 9xx or newer - [Bazzite](https://bazzite.gg/) is an optio
 
 NVIDIA GPUs older than GTX 9xx don't support Wayland (so no "Game Mode") and require kernel downgrade and heavy customization to even have chance of performing at half the framerate of regular install of Windows 11.
 
-When installing on non-NVMe storage, [a customized installation script](https://github.com/louij2/steamos_custom_install) is required, and as of January 2026, the resulting system will fail to update itself. This issue might never be fixed, so acquire NVMe drive or switch to Bazzite.
+When installing on non-NVMe storage, [a customized installation script](https://github.com/louij2/steamos_custom_install) is required,
+and i recommend [this particular nightly build of 3.7](https://steamdeck-images.steamos.cloud/steamdeck/20260416.1000/steamdeck-repair-main-20260416.1000-3.9.0.img.zip).
+[Versions older than 3.8 will fail to update on non-NVMe](https://github.com/ValveSoftware/SteamOS/issues/2055),
+so use the following workaround to jump to 3.9:
 
-I used [this particular build of 3.8](https://steamdeck-images.steamos.cloud/steamdeck/20251027.1000/), because "stable" 3.7 recovery image kept failing at second stage of the install after selecting time zone and network connection.
+```sh
+umount /run/media/deck/var
+steamos-select-branch main
+steamos-update check
+steamos-update
+```
 
 If you're reading this after 3.8 public release, or intend to install on hardware that is officially supported - follow [the official Installation and Repair instructions](https://help.steampowered.com/en/faqs/view/65B4-2AA3-5F37-4227).
 
