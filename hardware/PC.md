@@ -45,6 +45,7 @@ Due to decentralized nature of PC hardware development, it was hard to define sp
    - Intel core 1st to 6th gen systems with 8+ GB RAM and 2+ GB VRAM GPU will run latest low-spec/indie games, but considered e-waste by most normies. Best price/performance builds for Mac users and Console gamers who occasionally want to run modded Minecraft or some older game they got for free on Epic Games Store.
 1. TPM 2.0 Era
    - Motherboard with TPM 2.0
+   - CPU: Mostly x86-64-v3
    - OS: Windows 11 25H2
    - Games: Modern competitive PvP games with kernel-level anticheats, also fully compatible with DDR3 generation
    - Due to 2026 RAM Crisis, if you don't already have a build like this - it's very hard to recommend it. There's just too many excellent games you can play on e-waste hardware. However, if you enjoy online competitive PvP - your only alternatives are Xbox and PlayStation.
