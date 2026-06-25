@@ -4,12 +4,12 @@
 
 ## Installing on non-Valve hardware
 
-You need a GPU that supports [Vulkan 1.4](https://www.phoronix.com/news/DXVK-3.0-Release) and Wayland with no extra steps. Oldest compliant as of 2026:
+You need a GPU that supports Vulkan and Wayland with no extra steps. Oldest compliant as of 2026:
 
-- [AMD GCN 3 (GFX8)](https://www.techpowerup.com/gpu-specs/?architecture=GCN%203.0):
-  - Desktop: 2014 Radeon R9 285
-  - Mobile: 2015 Radeon R9 M385
-- Intel: [2015 6th generation Core "Skylake" iGPU](https://www.techpowerup.com/gpu-specs/?architecture=Generation%209.0)
+- AMD GCN 1.0:
+  - Desktop: 2012 Radeon HD 7000 series
+  - Mobile: 2013 Radeon HD 8000M series (8000D and 8000G not supported)
+- Intel: 2015 6th generation Core "Skylake" iGPU
 
 If you have NVIDIA GTX 9xx or newer - [Bazzite](https://bazzite.gg/) is an option, but most games [i tested on GTX 1660 SUPER](https://docs.google.com/spreadsheets/d/1EZjM2UEp4BOFrTgkoYpacxS94z0WwJI-eyRh6DAf14E/edit?gid=63506070#gid=63506070) performed worse than on a regular non-debloated Windows 11 25H2. [RTX cards have the same issue](https://www.youtube.com/watch?v=URbW3j_GYKg). To improve Windows experience on handheld and TV setups, try [Xbox Full Screen Experience Tool](https://github.com/8bit2qubit/XboxFullScreenExperienceTool).
 
