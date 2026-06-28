@@ -9,9 +9,9 @@ It's hip to hate Windows 11, however there's still a mix of pragmatic reasons to
 - If a PC can't run Windows 11 well - it will also be miserable with a feature-complete full desktop Linux setup like [Bazzite](https://bazzite.gg/) with [KDE Plasma](https://kde.org/plasma-desktop/)
 - NVIDIA GPUs older than GTX 9xx series are stuck with outdated drivers on Linux, with no Wayland support, while on Windows those GPUs are still fully supported. Supposedly supported [GTX 1660 SUPER performs worse on Linux than on Windows in most games i tested](https://docs.google.com/spreadsheets/d/1EZjM2UEp4BOFrTgkoYpacxS94z0WwJI-eyRh6DAf14E/edit?gid=63506070#gid=63506070), and [RTX card drivers aren't any better](https://www.youtube.com/watch?v=URbW3j_GYKg).
 - Xbox Game Pass does not work on Linux
-- Most Online PvP games require kernel-level anti-cheats ([list of games](https://levvvel.com/games-with-kernel-level-anti-cheat-software/))
+- Most Online PvP games [require kernel-level anti-cheats](https://levvvel.com/games-with-kernel-level-anti-cheat-software/)
   - If your PC is [compliant with Vanguard requirements](https://support-valorant.riotgames.com/hc/en-us/articles/22291331362067-Vanguard-Restrictions), it's also fully compatible with Windows 11
-  - The industry standard practice as of 2025, is to not implement, or even intentionally break Linux support in games with Online PvP
+  - [Some anticheats support Linux](https://areweanticheatyet.com/), but the industry standard practice as of 2025, is to not implement, or even intentionally break Linux support in games with Online PvP
 
 ## Reasons to upgrade from Windows 10
 
