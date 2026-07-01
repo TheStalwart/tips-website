@@ -1,6 +1,6 @@
 # SteamOS
 
-[SteamOS](https://store.steampowered.com/steamos) is a highly opinionated [ArchLinux](https://archlinux.org/)-based OS developed by Valve, aiming for great Handheld/Livingroom Gaming Console-like experience.
+[SteamOS](https://store.steampowered.com/steamos) is a highly opinionated immutable [ArchLinux](https://archlinux.org/)-based OS developed by Valve, aiming for great Handheld/Livingroom Gaming Console-like experience.
 
 ## Installing on non-Valve hardware
 
