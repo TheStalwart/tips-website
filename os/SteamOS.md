@@ -4,7 +4,9 @@
 
 ## Installing on non-Valve hardware
 
-You need a GPU that supports Vulkan and Wayland with no extra steps. Oldest compliant as of 2026:
+You need a motherboard with UEFI,
+and a GPU that supports Vulkan and Wayland with no extra steps.
+Oldest compliant as of 2026:
 
 - [AMD GCN 1.0](https://www.techpowerup.com/gpu-specs/?architecture=GCN%201.0):
   - Desktop: 2012 Radeon HD 7000 series
