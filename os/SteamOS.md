@@ -33,6 +33,14 @@ If you're reading this after 3.8 public release, or intend to install on hardwar
 
 Recovery Live Image does not boot via Ventoy. You need a dedicated USB drive to run it.
 
+## Chainloader for non-UEFI motherboards
+
+After a bootable instance of SteamOS was created in the previous step, the drive can be installed in some late non-UEFI systems and booted using Clover.
+
+Download `Clover-*-X64.iso.7z` from [Clover Release list](https://github.com/CloverHackyColor/CloverBootloader/releases), extract ISO file, and write it to USB drive using [Rufus](https://rufus.ie/en/). Make sure to select `Partition scheme: MBR`.
+
+It's also theoretically possible to deploy Clover to a secondary HDD/SSD, which can also be used for Game Library storage.
+
 ## Updating from CLI
 
 Check current version:
