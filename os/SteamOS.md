@@ -13,7 +13,7 @@ Oldest compliant as of 2026:
   - Mobile: 2013 Radeon HD 8000M series (8000D and 8000G not supported)
 - Intel: [2015 6th generation Core "Skylake" iGPU](https://www.techpowerup.com/gpu-specs/?architecture=Generation%209.0)
 
-If you have NVIDIA GTX 9xx or newer - [Bazzite](https://bazzite.gg/) is an option, but most games [i tested on GTX 1660 SUPER](https://docs.google.com/spreadsheets/d/1EZjM2UEp4BOFrTgkoYpacxS94z0WwJI-eyRh6DAf14E/edit?gid=63506070#gid=63506070) performed worse than on a regular non-debloated Windows 11 25H2. [RTX cards have the same issue](https://www.youtube.com/watch?v=URbW3j_GYKg). To improve Windows experience on handheld and TV setups, try [Xbox Full Screen Experience Tool](https://github.com/8bit2qubit/XboxFullScreenExperienceTool).
+If you have NVIDIA GTX 9xx or newer - [Bazzite](/os/Bazzite.md) is an option, but most games [i tested on GTX 1660 SUPER](https://docs.google.com/spreadsheets/d/1EZjM2UEp4BOFrTgkoYpacxS94z0WwJI-eyRh6DAf14E/edit?gid=63506070#gid=63506070) performed worse than on a regular non-debloated Windows 11 25H2. [RTX cards have the same issue](https://www.youtube.com/watch?v=URbW3j_GYKg). To improve Windows experience on handheld and TV setups, try [Xbox Full Screen Experience Tool](https://github.com/8bit2qubit/XboxFullScreenExperienceTool).
 
 NVIDIA GPUs older than GTX 9xx don't support Wayland (so no "Game Mode") and require kernel downgrade and heavy customization to even have chance of performing at half the framerate of regular install of Windows 11.
 
