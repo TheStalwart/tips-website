@@ -39,3 +39,9 @@ To add COPR repositories:
 To install packages:
 
 `rpm-ostree install noctalia-hyprland-meta wlrctl hyprprop kanshi`
+
+To reset back to unmodified upstream image:
+
+`rpm-ostree reset`
+
+More documentation: [Package Layering - Bazzite Documentation](https://docs.bazzite.gg/Installing_and_Managing_Software/rpm-ostree/)
