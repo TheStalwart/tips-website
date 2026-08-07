@@ -27,3 +27,15 @@ distros like Bazzite are a better choice for non-Valve hardware.
     - RTX Series or GTX 16xx Series ("nvidia-open" flavor)
     - GTX 750, GTX 9xx and GTX 10xx Series ("nvidia" flavor)
 - Motherboard with UEFI, or late CSM (e.g. Intel Core 3rd gen)
+
+## Overlaying RPM packages
+
+While it's _not recommended_, an _may_ cause issues when updating root immutable image, overlaying packages is a way to experiment with less popular desktops.
+
+To add COPR repositories:
+
+`sudo dnf5 copr enable lionheartp/Hyprland`
+
+To install packages:
+
+`rpm-ostree install noctalia-hyprland-meta wlrctl hyprprop kanshi`
