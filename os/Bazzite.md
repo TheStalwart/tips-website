@@ -53,3 +53,13 @@ so non-privileged autostart editing tools can't disable it.
 
 Edit `/etc/xdg/autostart/steam.desktop` as root, e.g. with `sudo nano`,
 and add `Hidden=true` line to `[Desktop Entry]` section.
+
+## Verbose boot log
+
+Disable boot animation:
+
+`sudo rpm-ostree kargs --delete rhgb`
+
+Enable kernel logging:
+
+`sudo rpm-ostree kargs --delete quiet`
