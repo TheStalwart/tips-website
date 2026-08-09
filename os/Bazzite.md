@@ -45,3 +45,11 @@ To reset back to unmodified upstream image:
 `rpm-ostree reset`
 
 More documentation: [Package Layering - Bazzite Documentation](https://docs.bazzite.gg/Installing_and_Managing_Software/rpm-ostree/)
+
+## Disabling Steam on login to KDE Plasma session
+
+Bazzite adds Steam to KDE Plasma session autostart globally,
+so non-privileged autostart editing tools can't disable it.
+
+Edit `/etc/xdg/autostart/steam.desktop` as root, e.g. with `sudo nano`,
+and add `Hidden=true` line to `[Desktop Entry]` section.
