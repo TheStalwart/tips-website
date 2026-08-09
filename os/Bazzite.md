@@ -30,7 +30,9 @@ distros like Bazzite are a better choice for non-Valve hardware.
 
 ## Overlaying RPM packages
 
-While it's _not recommended_, an _may_ cause issues when updating root immutable image, overlaying packages is a way to experiment with less popular desktops.
+While it's _not recommended_,
+and _may_ cause issues when updating root immutable image,
+overlaying packages is a way to experiment with less popular desktops.
 
 To add COPR repositories:
 
