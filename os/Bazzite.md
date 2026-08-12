@@ -30,7 +30,9 @@ distros like Bazzite are a better choice for non-Valve hardware.
 
 ## Overlaying RPM packages
 
-While it's _not recommended_, an _may_ cause issues when updating root immutable image, overlaying packages is a way to experiment with less popular desktops.
+While it's _not recommended_,
+and _may_ cause issues when updating root immutable image,
+overlaying packages is a way to experiment with less popular desktops.
 
 To add COPR repositories:
 
@@ -38,10 +40,28 @@ To add COPR repositories:
 
 To install packages:
 
-`rpm-ostree install noctalia-hyprland-meta wlrctl hyprprop kanshi`
+`rpm-ostree install noctalia-hyprland-meta wlrctl hyprprop hypridle hyprpolkitagent kanshi`
 
 To reset back to unmodified upstream image:
 
 `rpm-ostree reset`
 
 More documentation: [Package Layering - Bazzite Documentation](https://docs.bazzite.gg/Installing_and_Managing_Software/rpm-ostree/)
+
+## Disabling Steam on login to KDE Plasma session
+
+Bazzite adds Steam to KDE Plasma session autostart globally,
+so non-privileged autostart editing tools can't disable it.
+
+Edit `/etc/xdg/autostart/steam.desktop` as root, e.g. with `sudo nano`,
+and add `Hidden=true` line to `[Desktop Entry]` section.
+
+## Verbose boot log
+
+Disable boot animation:
+
+`sudo rpm-ostree kargs --delete rhgb`
+
+Enable kernel logging:
+
+`sudo rpm-ostree kargs --delete quiet`
