@@ -172,6 +172,7 @@ Open Local Group Policy Editor (gpedit.msc), go to Computer Configuration -> Win
 ## Multimedia tools
 
 - [HandBrake](https://handbrake.fr/features.php) - video converter UI with a long list of presets
+- [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) - lightweight video player with Dark Mode support
 - [PEACE](https://sourceforge.net/projects/peace-equalizer-apo-extension/) - UI for system-wide [Equalizer APO](https://sourceforge.net/projects/equalizerapo)
 - [VLC media player](https://www.videolan.org/vlc/) - plays _most_ video files, use [nightly builds](https://nightlies.videolan.org/) for better HiDPI and Dark Mode support
 - [Voicemeeter Virtual Audio Mixer](https://vb-audio.com/Voicemeeter/index.htm) - audio input mixer and output router
