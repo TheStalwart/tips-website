@@ -71,3 +71,5 @@ Split-screen on PC has technical challenges, but there's [a guide with workaroun
 A series of tactical third person shooter games by Rebellion. Co-op gameplay is intended to be symmetrical, but level design of the later games leaves enough freedom to leverage a cooperative gameplay. Once you learn the basics of the gameplay, i suggest bumping up difficulty and approaching every mission as a puzzle to solve.
 
 The very first 2005 game had split-screen co-op in console ports. Subsequent games of the series had network-based co-op implementation.
+
+Try Zombie Army series as well - the gameplay and level design is just as good.
