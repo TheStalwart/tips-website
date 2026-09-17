@@ -35,6 +35,7 @@ Recovery Live Image does not boot via Ventoy. You need a dedicated USB drive to 
 ## Chainloader for non-UEFI motherboards
 
 After a bootable instance of SteamOS was created in the previous step, the drive can be installed in some late non-UEFI systems and booted using Clover.
+This was confirmed to work on 3rd gen Core i7, but failed on strictly legacy 1st gen Core i7.
 
 Download `Clover-*-X64.iso.7z` from [Clover Release list](https://github.com/CloverHackyColor/CloverBootloader/releases), extract ISO file, and write it to USB drive using [Rufus](https://rufus.ie/en/). Make sure to select `Partition scheme: MBR`.
 
