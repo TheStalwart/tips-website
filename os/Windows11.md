@@ -40,6 +40,8 @@ To learn from your own mistakes, consider the following projects:
 - [Chris Titus Tech's Windows Utility](https://christitus.com/windows-tool/)
 - [tiny11builder](https://github.com/ntdevlabs/tiny11builder)
 
+I advise _against_ using someone else's prebuilt opinionated "debloated" Windows, because everyone's definition of "bloat" is different. For example, most of them remove Windows Store, which breaks Xbox Game Pass compatibility.
+
 ## Install on unsupported hardware
 
 For Windows 11 25H2 to run well and be usable for modern web apps and low spec games the system requirements are the following:
