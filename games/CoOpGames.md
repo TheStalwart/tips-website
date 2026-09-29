@@ -72,4 +72,4 @@ A series of tactical third person shooter games by Rebellion. Co-op gameplay is 
 
 The very first 2005 game had split-screen co-op in console ports. Subsequent games of the series had network-based co-op implementation.
 
-Try Zombie Army series as well - the gameplay and level design is just as good.
+Try Zombie Army series and Strange Brigade as well - the gameplay and level design is just as good, but far less serious.
