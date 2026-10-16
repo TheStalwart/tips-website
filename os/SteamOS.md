@@ -30,6 +30,10 @@ steamos-update
 
 Since stable release of 3.8, to install on compatible hardware - follow [the official Installation and Repair instructions](https://help.steampowered.com/en/faqs/view/65B4-2AA3-5F37-4227).
 
+If stable install media fails, try looking for newer nightly build.
+Some of the [folders on Valve mirror](https://steamdeck-images.steamos.cloud/steamdeck/)
+contain `steamdeck-repair-*.img.zip` files.
+
 Recovery Live Image does not boot via Ventoy. You need a dedicated USB drive to run it.
 
 ## Chainloader for non-UEFI motherboards
