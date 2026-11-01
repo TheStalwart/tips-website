@@ -56,6 +56,15 @@ so non-privileged autostart editing tools can't disable it.
 Edit `/etc/xdg/autostart/steam.desktop` as root, e.g. with `sudo nano`,
 and add `Hidden=true` line to `[Desktop Entry]` section.
 
+## Steam Local Network Game Transfers
+
+Out of the box, [Steam Local Network Game Transfers](https://help.steampowered.com/en/faqs/view/46BD-6BA8-B012-CE43) are blocked by firewall policy.
+
+- Run `firewall-config`
+- Open "Zones" -> "FedoraWorkstation" -> "Services"
+- Check "steam-lan-transfer" and "steam-streaming"
+- In main menu, select "Options" -> "Runtime To Permanent"
+
 ## Verbose boot log
 
 Disable boot animation:
