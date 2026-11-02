@@ -25,7 +25,12 @@ It seems to be undocumented feature, but it's possible to play co-op on 2x PCs w
 
 ## Gears of War (1)
 
-Playable on PC, Xbox Series and Xbox One, [Ultimate Edition](https://www.microsoft.com/store/productId/9NBLGGH3SHM5) is _the_ way to play the first game of the series. It has graphics and soundtrack remastered, several cutscenes were completely overhauled, and alternative ending has been implemented to tease the following games of the series.
+Playable on PC, PS5, Xbox 360, Xbox One and Xbox Series.
+[Ultimate Edition (2015)](https://www.microsoft.com/store/productId/9NBLGGH3SHM5)
+or [Reloaded (2025)](https://www.gearsofwar.com/en-us/games/gears-reloaded/)
+are recommended to enjoy the first game of the series.
+Both remasters had alternative ending implemented
+to tease the following games of the series.
 
 Split-screen co-op is not available on PC, it's a feature exclusive to console version.
 
