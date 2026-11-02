@@ -40,7 +40,7 @@ Behind the scenes documentary: [Making of - Gears of War (2006) [Behind the Scen
 
 ## Gears of War 2
 
-This game is Xbox360 exclusive, also compatible with Xbox Series and Xbox One with FPS boost. Xbox One X and Xbox Series X run the game in 4K. Remaster for PC was announced, to be released in late 2025.
+This game is Xbox360 exclusive, also compatible with Xbox Series and Xbox One with FPS boost. Xbox One X and Xbox Series X run the game in 4K.
 
 Split-screen on Console allows each player to log into separate Xbox Account, collecting achievements separately. There's a [known issue with launching split-screen co-op on Xbox One](https://www.reddit.com/r/GearsOfWar/comments/amnly6/gears_of_war_2_player_couch_coop_how_to_sign_in/). Log into two accounts in Xbox One Dashboard, _then_ launch the game, press [View and Menu buttons](https://support.xbox.com/en-US/help/hardware-network/controller/xbox-one-wireless-controller) simultaneously to present Xbox 360 dashboard and select Xbox Live account for Player 2.
 
@@ -53,7 +53,7 @@ Behind the scenes documentaries:
 
 ## Gears of War 3
 
-This game is Xbox360 exclusive, also compatible with Xbox Series and Xbox One with FPS boost. Xbox One X and Xbox Series X run the game in 4K. Remaster for PC was announced, to be released in late 2025.
+This game is Xbox360 exclusive, also compatible with Xbox Series and Xbox One with FPS boost. Xbox One X and Xbox Series X run the game in 4K.
 
 Split-screen on Console allows each player to log into separate Xbox Account, collecting achievements separately.
 
