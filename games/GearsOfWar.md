@@ -6,19 +6,19 @@ Development of the first trilogy was lead by [Cliff Bleszinski](https://en.wikip
 
 Xbox Series is the only platform compatible with _every_ game of the series. As of Q1 2025, you _need_ an Xbox360 (or newer) Console to play _all_ mainline games of the series, since multiple games were never released on PC. Remasters of GoW 2 and 3 for PC were announced, to be released in late 2025. "Judgment" was considered a commercial failure, so i don't expect it to be remastered in the near future. There was no clear announcement, but Xbox Studios hinted at remastered trilogy and E-Day games coming to PS5.
 
-| Game                                             | Xbox 360 | Xbox One | Xbox Series | PC  | PS5 |
-| ------------------------------------------------ | -------- | -------- | ----------- | --- | --- |
-| [Gears of War 1](#gears-of-war-1)                | ✅       | ✅       | ✅          | ✅  | TBA |
-| [Gears of War 2](#gears-of-war-2)                | ✅       | ✅       | ✅          | WIP | TBA |
-| [Gears of War 3](#gears-of-war-3)                | ✅       | ✅       | ✅          | WIP | TBA |
-| [Gears of War: Judgment](#gears-of-war-judgment) | ✅       | ✅       | ✅          | ❌  | ❌  |
-| [Gears of War 4](#gears-of-war-4)                | ❌       | ✅       | ✅          | ✅  | ❌  |
-| [Gears 5](#gears-5)                              | ❌       | ✅       | ✅          | ✅  | ❌  |
-| [Gears of War: E-Day](#gears-of-war-e-day)       | ❌       | ❌       | ✅          | ✅  | TBA |
+| Game                                             | Xbox 360 | Xbox One | Xbox Series | PC | PS5 |
+| ------------------------------------------------ | -------- | -------- | ----------- | -- | --- |
+| [Gears of War 1](#gears-of-war-1)                | ✅       | ✅       | ✅          | ✅ | ✅  |
+| [Gears of War 2](#gears-of-war-2)                | ✅       | ✅       | ✅          | ❌ | ❌  |
+| [Gears of War 3](#gears-of-war-3)                | ✅       | ✅       | ✅          | ❌ | ❌  |
+| [Gears of War: Judgment](#gears-of-war-judgment) | ✅       | ✅       | ✅          | ❌ | ❌  |
+| [Gears of War 4](#gears-of-war-4)                | ❌       | ✅       | ✅          | ✅ | ❌  |
+| [Gears 5](#gears-5)                              | ❌       | ✅       | ✅          | ✅ | ❌  |
+| [Gears of War: E-Day](#gears-of-war-e-day)       | ❌       | ❌       | ✅          | ✅ | ❌  |
 
 [Xbox Game Pass](https://www.xbox.com/en-us/xbox-game-pass/ultimate) is the most cost-efficient way if your goal is to enjoy all the story of singleplayer/co-op campaigns.
 
-It seems to be undocumented feature, but it's possible to play co-op on 2x PCs with just one Game Pass subscription. Log into Xbox app with the account having active Game Pass subscription to install and run games for the first time, then close the game and let _Player 2_ log into Xbox app. He can then run the game and join a co-op squad hosted by Game Pass holding account. Exception is DLC content - it will trigger extra DRM verification and kick out players who don't have proof of ownership.
+It seems to be undocumented feature, but it's possible to play co-op on 2x PCs with just one Game Pass subscription. Log into Xbox app with the account having active Game Pass subscription to install and run games for the first time, then close the game and let _Player 2_ log into Xbox app. He can then run the game and join a co-op squad hosted by Game Pass holding account. Exception is DLC content and newest games of the series - they will trigger extra DRM verification and kick out players who don't have proof of ownership.
 
 [The FULL Gears Of War Timeline...So Far | Before & After E-Day | Gears Lore - YouTube](https://www.youtube.com/watch?v=2cp9AY5PQeQ) (MAJOR SPOILERS!)
 
@@ -81,4 +81,7 @@ Split-screen on PC is available, but all players will share the same Xbox accoun
 
 ## Gears of War: E-Day
 
-The 6th mainline game [was announced](https://www.youtube.com/watch?v=EC20gLfUHeA), rumored to be released in 2026 for PC and Xbox Series.
+The 6th mainline game [was announced in 2024](https://www.youtube.com/watch?v=EC20gLfUHeA), and released in 2026 for PC and Xbox Series.
+PlayStation release was cancelled after Xbox management change.
+
+Split-screen is not available on PC, it's a feature exclusive to console version.
