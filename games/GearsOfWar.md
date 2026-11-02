@@ -34,7 +34,7 @@ to tease the following games of the series.
 
 Split-screen co-op is not available on PC, it's a feature exclusive to console version.
 
-The original Xbox360 release [is compatible with Xbox Series and Xbox One consoles](https://en.wikipedia.org/wiki/List_of_backward-compatible_games_for_Xbox_One_and_Series_X/S) with FPS boost, but if you're set to play the entire series - there's no reason to choose this edition over Ultimate.
+The original Xbox360 release [is compatible with Xbox Series and Xbox One consoles](https://en.wikipedia.org/wiki/List_of_backward-compatible_games_for_Xbox_One_and_Series_X/S) with FPS boost, but if you're set to play the entire series - there's no reason to choose this edition over remasters.
 
 Behind the scenes documentary: [Making of - Gears of War (2006) [Behind the Scenes]](https://www.youtube.com/watch?v=r4bFx4Tq7A8)
 
