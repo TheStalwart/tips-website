@@ -65,6 +65,12 @@ Out of the box, [Steam Local Network Game Transfers](https://help.steampowered.c
 - Check "steam-lan-transfer" and "steam-streaming"
 - In main menu, select "Options" -> "Runtime To Permanent"
 
+## "Game Mode" in desktop images
+
+As of October 2026, GNOME images do not provide Gamescope session on GDM login screen.
+
+If you want an option of running the PC in "Game Mode" - install KDE images.
+
 ## Verbose boot log
 
 Disable boot animation:
