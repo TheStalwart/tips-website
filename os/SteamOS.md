@@ -37,6 +37,8 @@ contain `steamdeck-repair-*.img.zip` files.
 Recovery Live Image does not boot via Ventoy. You need a dedicated USB drive to run it.
 
 As of November 2026, SteamOS OOBE will fail to recognize Ethernet if no compatible Wi-Fi adapter is detected.
+Plug in a compatible Wi-Fi adapter,
+or try [other workarounds documented by the community](https://github.com/ValveSoftware/SteamOS/issues/2514#issuecomment-5520879762).
 After the OOBE, the SteamOS will work fine with just the Ethernet.
 
 ## Chainloader for non-UEFI motherboards
