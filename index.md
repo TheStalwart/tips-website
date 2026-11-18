@@ -21,8 +21,8 @@ features:
  - title: Windows XP
    details: Configure pre-2008 PCs for running older games and apps
    link: /os/WindowsXP.md
- - title: Co-Op games
-   details: List of great cooperative multiplayer games
-   link: /games/CoOpGames.md
+ - title: SteamOS
+   details: Valve's flavor of Arch Linux on non-Valve PCs
+   link: /os/SteamOS.md
 ---
 
